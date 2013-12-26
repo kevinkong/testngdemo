@@ -1,0 +1,209 @@
+[INFO ]11:39:52, RetryCount=100
+[INFO ]11:39:52, Fail3Test setUp
+[INFO ]11:39:52, testFail3 Start
+[INFO ]11:39:52, count=0
+[INFO ]11:39:53, testFail3 Failure
+[INFO ]11:39:53, tearDown
+[INFO ]11:39:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]11:39:53, Fail3Test setUp
+[INFO ]11:39:53, testFail3 Start
+[INFO ]11:39:53, count=1
+[INFO ]11:39:54, testFail3 Failure
+[INFO ]11:39:54, tearDown
+[INFO ]11:39:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]11:39:54, Fail3Test setUp
+[INFO ]11:39:54, testFail3 Start
+[INFO ]11:39:54, count=2
+[INFO ]11:39:55, testFail3 Failure
+[INFO ]11:39:55, tearDown
+[INFO ]11:39:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]11:39:55, Fail3Test setUp
+[INFO ]11:39:55, testFail3 Start
+[INFO ]11:39:55, count=3
+[INFO ]11:39:56, testFail3 Failure
+[INFO ]11:39:56, tearDown
+[INFO ]11:39:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]11:39:56, testFail3 Start
+[INFO ]11:39:56, testFail3 Skipped
+[INFO ]11:39:56, testSuccess setUp
+[INFO ]11:39:56, testSuccess Start
+[INFO ]11:39:56, testSuccess
+[INFO ]11:39:56, testSuccess Success
+[INFO ]11:39:56, PassedTests = testSuccess
+[INFO ]11:39:56, skipTest = testFail3
+[INFO ]11:39:56, failedTest = testFail3
+[INFO ]11:39:56, failedTest = testFail3
+[INFO ]11:39:56, failedTest = testFail3
+[INFO ]11:39:56, failedTest = testFail3
+[INFO ]11:39:56, Remove repeat Fail Test: testFail3
+[INFO ]11:39:56, Remove repeat Fail Test: testFail3
+[INFO ]11:39:56, Remove repeat Fail Test: testFail3
+[INFO ]11:39:56, Remove repeat Fail Test: testFail3
+[INFO ]11:41:20, RetryCount=100
+[INFO ]11:41:20, Fail1SkipTest()
+[INFO ]11:41:20, Fail1SkipTest setUp
+[INFO ]11:41:20, testFail1Skip Start
+[INFO ]11:41:20, count=1
+[INFO ]11:41:20, testFail1Skip Failure
+[INFO ]11:41:20, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 1 times
+[INFO ]11:41:20, Fail1SkipTest setUp
+[INFO ]11:41:20, testFail1Skip Start
+[INFO ]11:41:20, testFail1Skip Skipped
+[INFO ]11:41:20, testFail1Sussces Start
+[INFO ]11:41:20, count=0
+[INFO ]11:41:20, testFail1Sussces Failure
+[INFO ]11:41:20, Retry for [testFail1Sussces] on class [com.netease.qa.testng.demo.Fail1SuccessTest] Retry 1 times
+[INFO ]11:41:20, testFail1Sussces Start
+[INFO ]11:41:20, count=1
+[INFO ]11:41:20, testFail1Sussces Success
+[INFO ]11:41:20, testFail2Sussces Start
+[INFO ]11:41:20, count=0
+[INFO ]11:41:20, testFail2Sussces Failure
+[INFO ]11:41:20, Retry for [testFail2Sussces] on class [com.netease.qa.testng.demo.Fail2SuccessTest] Retry 1 times
+[INFO ]11:41:20, testFail2Sussces Start
+[INFO ]11:41:20, count=1
+[INFO ]11:41:20, testFail2Sussces Failure
+[INFO ]11:41:20, Retry for [testFail2Sussces] on class [com.netease.qa.testng.demo.Fail2SuccessTest] Retry 2 times
+[INFO ]11:41:20, testFail2Sussces Start
+[INFO ]11:41:20, count=2
+[INFO ]11:41:20, testFail2Sussces Success
+[INFO ]11:41:20, SkipTestsetUp
+[INFO ]11:41:20, testSkip Start
+[INFO ]11:41:20, testSkip Skipped
+[INFO ]11:41:20, Fail3Test setUp
+[INFO ]11:41:20, testFail3 Start
+[INFO ]11:41:20, count=0
+[INFO ]11:41:21, testFail3 Failure
+[INFO ]11:41:21, tearDown
+[INFO ]11:41:21, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]11:41:21, Fail3Test setUp
+[INFO ]11:41:21, testFail3 Start
+[INFO ]11:41:21, count=1
+[INFO ]11:41:22, testFail3 Failure
+[INFO ]11:41:22, tearDown
+[INFO ]11:41:22, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]11:41:22, Fail3Test setUp
+[INFO ]11:41:22, testFail3 Start
+[INFO ]11:41:22, count=2
+[INFO ]11:41:23, testFail3 Failure
+[INFO ]11:41:23, tearDown
+[INFO ]11:41:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]11:41:23, Fail3Test setUp
+[INFO ]11:41:23, testFail3 Start
+[INFO ]11:41:23, count=3
+[INFO ]11:41:24, testFail3 Failure
+[INFO ]11:41:24, tearDown
+[INFO ]11:41:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]11:41:24, testFail3 Start
+[INFO ]11:41:24, testFail3 Skipped
+[INFO ]11:41:24, testSuccess setUp
+[INFO ]11:41:24, testSuccess Start
+[INFO ]11:41:24, testSuccess
+[INFO ]11:41:24, testSuccess Success
+[INFO ]11:41:24, PassedTests = testFail1Sussces
+[INFO ]11:41:24, PassedTests = testSuccess
+[INFO ]11:41:24, PassedTests = testFail2Sussces
+[INFO ]11:41:24, skipTest = testFail3
+[INFO ]11:41:24, skipTest = testFail1Skip
+[INFO ]11:41:24, skipTest = testSkip
+[INFO ]11:41:24, failedTest = testFail3
+[INFO ]11:41:24, failedTest = testFail3
+[INFO ]11:41:24, failedTest = testFail2Sussces
+[INFO ]11:41:24, failedTest = testFail3
+[INFO ]11:41:24, failedTest = testFail1Sussces
+[INFO ]11:41:24, failedTest = testFail1Skip
+[INFO ]11:41:24, failedTest = testFail3
+[INFO ]11:41:24, failedTest = testFail2Sussces
+[INFO ]11:41:24, Remove repeat Fail Test: testFail3
+[INFO ]11:41:24, Remove repeat Fail Test: testFail3
+[INFO ]11:41:24, Remove repeat Fail Test: testFail2Sussces
+[INFO ]11:41:24, Remove repeat Fail Test: testFail3
+[INFO ]11:41:24, Remove repeat Fail Test: testFail1Sussces
+[INFO ]11:41:24, Remove repeat Fail Test: testFail1Skip
+[INFO ]11:41:24, Remove repeat Fail Test: testFail3
+[INFO ]11:41:24, Remove repeat Fail Test: testFail2Sussces
+[INFO ]16:41:54, retrycount=100
+[INFO ]16:41:54, sourceCodeDir=src
+[INFO ]16:41:54, sourceCodeEncoding=UTF-8
+[INFO ]16:41:54, Fail1SkipTest()
+[INFO ]16:41:54, Fail1SkipTest setUp
+[INFO ]16:41:54, testFail1Skip Start
+[INFO ]16:41:54, count=1
+[INFO ]16:41:54, testFail1Skip Failure
+[INFO ]16:41:54, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 1 times
+[INFO ]16:41:54, Fail1SkipTest setUp
+[INFO ]16:41:54, testFail1Skip Start
+[INFO ]16:41:54, testFail1Skip Skipped
+[INFO ]16:41:54, testFail1Sussces Start
+[INFO ]16:41:54, count=0
+[INFO ]16:41:54, testFail1Sussces Failure
+[INFO ]16:41:54, Retry for [testFail1Sussces] on class [com.netease.qa.testng.demo.Fail1SuccessTest] Retry 1 times
+[INFO ]16:41:54, testFail1Sussces Start
+[INFO ]16:41:54, count=1
+[INFO ]16:41:54, testFail1Sussces Success
+[INFO ]16:41:54, testFail2Sussces Start
+[INFO ]16:41:54, count=0
+[INFO ]16:41:54, testFail2Sussces Failure
+[INFO ]16:41:54, Retry for [testFail2Sussces] on class [com.netease.qa.testng.demo.Fail2SuccessTest] Retry 1 times
+[INFO ]16:41:54, testFail2Sussces Start
+[INFO ]16:41:54, count=1
+[INFO ]16:41:54, testFail2Sussces Failure
+[INFO ]16:41:54, Retry for [testFail2Sussces] on class [com.netease.qa.testng.demo.Fail2SuccessTest] Retry 2 times
+[INFO ]16:41:54, testFail2Sussces Start
+[INFO ]16:41:54, count=2
+[INFO ]16:41:54, testFail2Sussces Success
+[INFO ]16:41:54, SkipTestsetUp
+[INFO ]16:41:54, testSkip Start
+[INFO ]16:41:54, testSkip Skipped
+[INFO ]16:41:54, Fail3Test setUp
+[INFO ]16:41:54, testFail3 Start
+[INFO ]16:41:54, count=0
+[INFO ]16:41:55, testFail3 Failure
+[INFO ]16:41:55, tearDown
+[INFO ]16:41:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]16:41:55, Fail3Test setUp
+[INFO ]16:41:55, testFail3 Start
+[INFO ]16:41:55, count=1
+[INFO ]16:41:56, testFail3 Failure
+[INFO ]16:41:56, tearDown
+[INFO ]16:41:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]16:41:56, Fail3Test setUp
+[INFO ]16:41:56, testFail3 Start
+[INFO ]16:41:56, count=2
+[INFO ]16:41:57, testFail3 Failure
+[INFO ]16:41:57, tearDown
+[INFO ]16:41:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]16:41:57, Fail3Test setUp
+[INFO ]16:41:57, testFail3 Start
+[INFO ]16:41:57, count=3
+[INFO ]16:41:58, testFail3 Failure
+[INFO ]16:41:58, tearDown
+[INFO ]16:41:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]16:41:58, testFail3 Start
+[INFO ]16:41:58, testFail3 Skipped
+[INFO ]16:41:58, testSuccess setUp
+[INFO ]16:41:58, testSuccess Start
+[INFO ]16:41:58, testSuccess
+[INFO ]16:41:58, testSuccess Success
+[INFO ]16:41:58, PassedTests = testSuccess
+[INFO ]16:41:58, PassedTests = testFail2Sussces
+[INFO ]16:41:58, PassedTests = testFail1Sussces
+[INFO ]16:41:58, skipTest = testSkip
+[INFO ]16:41:58, skipTest = testFail1Skip
+[INFO ]16:41:58, skipTest = testFail3
+[INFO ]16:41:58, failedTest = testFail3
+[INFO ]16:41:58, failedTest = testFail1Sussces
+[INFO ]16:41:58, failedTest = testFail3
+[INFO ]16:41:58, failedTest = testFail2Sussces
+[INFO ]16:41:58, failedTest = testFail3
+[INFO ]16:41:58, failedTest = testFail3
+[INFO ]16:41:58, failedTest = testFail1Skip
+[INFO ]16:41:58, failedTest = testFail2Sussces
+[INFO ]16:41:58, Remove repeat Fail Test: testFail3
+[INFO ]16:41:58, Remove repeat Fail Test: testFail1Sussces
+[INFO ]16:41:58, Remove repeat Fail Test: testFail3
+[INFO ]16:41:58, Remove repeat Fail Test: testFail2Sussces
+[INFO ]16:41:58, Remove repeat Fail Test: testFail3
+[INFO ]16:41:58, Remove repeat Fail Test: testFail3
+[INFO ]16:41:58, Remove repeat Fail Test: testFail1Skip
+[INFO ]16:41:58, Remove repeat Fail Test: testFail2Sussces

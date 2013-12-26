@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG Report</title>
+<style type="text/css">
+table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}
+td,th {border:1px solid #009;padding:.25em .5em}
+.result th {vertical-align:bottom}
+.param th {padding-left:1em;padding-right:1em}
+.param td {padding-left:.5em;padding-right:2em}
+.stripe td,.stripe th {background-color: #E6EBF9}
+.numi,.numi_attn {text-align:right}
+.total td {font-weight:bold}
+.passedodd td {background-color: #0A0}
+.passedeven td {background-color: #3F3}
+.skippedodd td {background-color: #CCC}
+.skippedodd td {background-color: #DDD}
+.failedodd td,.numi_attn {background-color: #F33}
+.failedeven td,.stripe .numi_attn {background-color: #D00}
+.stacktrace {white-space:pre;font-family:monospace}
+.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="testOverview">
+<tr><th>Test</th><th>Methods<br/>Passed</th><th>Scenarios<br/>Passed</th><th># skipped</th><th># failed</th><th>Total<br/>Time</th><th>Included<br/>Groups</th><th>Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em"><a href="#t1">Test</a></td><td class="numi">1</td><td class="numi">1</td><td class="numi_attn">1</td><td class="numi">0</td><td class="numi">4.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="methodOverview" id="summary">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Running Counts</th><th>Parameters</th><th>Start</th><th>Time<br/>(ms)</th></tr>
+<tr id="t1"><th colspan="5">Test &#8212; skipped (configuration methods)</th></tr>
+<tr class="skippedodd"><td rowspan="2">com.netease.qa.testng.demo.Fail3Test</td><td><a href="#m387081391"><b>setUp</b>  </a></td><td class="numi">1</td><td></td><td></td><td>1384151699111</td><td class="numi">0</td></tr><tr class="skippedodd"><td><a href="#m-1386674122"><b>tearDown</b>  </a></td><td class="numi">1</td><td></td><td></td><td>1384151699112</td><td class="numi">0</td></tr>
+<tr><th colspan="5">Test &#8212; skipped</th></tr>
+<tr class="skippedodd"><td>com.netease.qa.testng.demo.Fail3Test</td><td><a href="#m-926019211"><b>testFail3</b>  ("testFail3")</a></td><td class="numi">1</td><td></td><td></td><td>1384151699112</td><td class="numi">0</td></tr>
+<tr><th colspan="5">Test &#8212; passed</th></tr>
+<tr class="passedodd"><td>com.netease.qa.testng.demo.SuccessTest</td><td><a href="#m-1368184111"><b>testSuccess</b>  ("testSuccess")</a></td><td class="numi">1</td><td>1</td><td></td><td>1384151699115</td><td class="numi">0</td></tr>
+</table>
+<h1>Test</h1>
+<h2 id="m-1386674122" name="m-1386674122" >com.netease.qa.testng.demo.Fail3Test:tearDown</h2>
+<div>
+<div class="stacktrace">java.lang.AssertionError: null
+	at com.netease.qa.testng.demo.Fail3Test.tearDown(Fail3Test.java:46)
+... Removed 27 stack frames</div>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m387081391" name="m387081391" >com.netease.qa.testng.demo.Fail3Test:setUp</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1386674122" name="m-1386674122" >com.netease.qa.testng.demo.Fail3Test:tearDown</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-926019211" name="m-926019211" >com.netease.qa.testng.demo.Fail3Test:testFail3</h2>
+<div>
+onTestSkipped:testFail3 tackScreentshot Failure!<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m-1368184111" name="m-1368184111" >com.netease.qa.testng.demo.SuccessTest:testSuccess</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project default="testng" basedir="." name="demo">
+	<property name="testngxml" value="testng" />
+	<property name="configFile" value="config.properties" />
+
+	<path id="cpath">
+		<fileset dir="libs">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<path id="runpath">
+		<path refid="cpath" />
+		<pathelement location="class" />
+	</path>
+
+	<taskdef resource="testngtasks" classpath="libs/testng-6.8.jar" />
+
+	<target name="clean">
+		<delete dir="class/*" />
+		<delete dir="test-output/*" />
+	</target>
+
+	<target name="copy-res" depends="clean">
+		<copy todir="class">
+			<fileset dir="src">
+				<exclude name="**/*.java" />
+			</fileset>
+		</copy>
+	</target>
+	
+	<target name="compile" depends="copy-res">
+		<mkdir dir="class/" />
+		<javac destdir="class/" classpathref="cpath" srcdir="src" debug="true"
+			includeantruntime="off" encoding="utf-8">
+		</javac>
+	</target>
+
+	<target name="testng" depends="compile">
+		<mkdir dir="test-output" />
+		<testng outputDir="test-output" classpathref="runpath"
+			haltonfailure="fasle" listeners="com.netease.qa.testng.PowerEmailableReporter, 
+			com.netease.qa.testng.RetryListener, com.netease.qa.testng.TestResultListener">
+			<xmlfileset dir="." includes="${testngxml}.xml" />
+			<jvmarg line="-Dfile.encoding=utf-8" />
+		</testng>
+	</target>
+
+</project>

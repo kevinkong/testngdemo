@@ -1,0 +1,413 @@
+[INFO ]14:59:26, RetryCount=2
+[INFO ]14:59:30, username=kevinkong
+[INFO ]14:59:30, password=111
+[INFO ]14:59:30, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]14:59:32, username=kevinkong
+[INFO ]14:59:32, password=111
+[INFO ]14:59:32, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 2 times
+[INFO ]14:59:34, username=kevinkong
+[INFO ]14:59:34, password=111
+[INFO ]14:59:36, username=test
+[INFO ]14:59:36, password=222
+[INFO ]14:59:38, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]14:59:40, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 2 times
+[INFO ]15:39:58, RetryCount=2
+[INFO ]15:40:02, username=kevinkong
+[INFO ]15:40:02, password=111
+[INFO ]15:40:02, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]15:40:04, username=kevinkong
+[INFO ]15:40:04, password=111
+[INFO ]15:40:04, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 2 times
+[INFO ]15:40:06, username=kevinkong
+[INFO ]15:40:06, password=111
+[INFO ]15:40:08, username=test
+[INFO ]15:40:08, password=222
+[INFO ]15:40:10, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]15:40:12, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 2 times
+[INFO ]15:50:04, username=kevinkong
+[INFO ]15:50:04, password=111
+[INFO ]15:50:06, username=test
+[INFO ]15:50:06, password=222
+[INFO ]16:28:01, screenShotpath=
+[INFO ]16:28:01, RetryCount=2
+[INFO ]16:28:01, test1111 Start
+[INFO ]16:28:03, test1111 Success
+[INFO ]16:28:03, test22222 Start
+[INFO ]16:28:05, username=kevinkong
+[INFO ]16:28:05, password=111
+[INFO ]16:28:05, test22222 Failure
+[INFO ]16:28:05, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:28:05, test22222 Start
+[INFO ]16:28:07, username=kevinkong
+[INFO ]16:28:07, password=111
+[INFO ]16:28:07, test22222 Failure
+[INFO ]16:28:07, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 2 times
+[INFO ]16:28:07, test22222 Start
+[INFO ]16:28:09, username=kevinkong
+[INFO ]16:28:09, password=111
+[INFO ]16:28:09, test22222 Failure
+[INFO ]16:28:09, test22222 Start
+[INFO ]16:28:11, username=test
+[INFO ]16:28:11, password=222
+[INFO ]16:28:11, test22222 Failure
+[INFO ]16:28:11, test33333 Start
+[INFO ]16:28:13, test33333 Failure
+[INFO ]16:28:13, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:28:13, test33333 Start
+[INFO ]16:28:15, test33333 Failure
+[INFO ]16:28:15, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 2 times
+[INFO ]16:28:15, test33333 Start
+[INFO ]16:28:17, test33333 Failure
+[INFO ]16:28:17, PassedTests = test1111
+[INFO ]16:28:17, failedTest = test22222
+[INFO ]16:28:17, failedTest = test22222
+[INFO ]16:28:17, failedTest = test33333
+[INFO ]16:28:17, failedTest = test33333
+[INFO ]16:28:17, failedTest = test22222
+[INFO ]16:28:17, failedTest = test33333
+[INFO ]16:28:17, failedTest = test22222
+[INFO ]16:28:17, Remove repeat Fail Test: test22222
+[INFO ]16:28:17, Remove repeat Fail Test: test33333
+[INFO ]16:28:17, Remove repeat Fail Test: test33333
+[INFO ]16:28:17, Remove repeat Fail Test: test22222
+[INFO ]16:50:36, screenShotpath=
+[INFO ]16:50:36, RetryCount=1
+[INFO ]16:50:36, test1111 Start
+[INFO ]16:50:38, test1111 Success
+[INFO ]16:50:38, test22222 Start
+[INFO ]16:50:40, username=kevinkong
+[INFO ]16:50:40, password=111
+[INFO ]16:50:40, test22222 Failure
+[INFO ]16:50:40, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:50:40, test22222 Start
+[INFO ]16:50:42, username=kevinkong
+[INFO ]16:50:42, password=111
+[INFO ]16:50:42, test22222 Failure
+[INFO ]16:50:42, test22222 Start
+[INFO ]16:50:44, username=test
+[INFO ]16:50:44, password=222
+[INFO ]16:50:44, test22222 Failure
+[INFO ]16:50:44, test33333 Start
+[INFO ]16:50:46, test33333 Failure
+[INFO ]16:50:46, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:50:46, test33333 Start
+[INFO ]16:50:48, test33333 Failure
+[INFO ]16:50:48, PassedTests = test1111
+[INFO ]16:50:48, failedTest = test33333
+[INFO ]16:50:48, failedTest = test22222
+[INFO ]16:50:48, failedTest = test33333
+[INFO ]16:50:48, failedTest = test22222
+[INFO ]16:50:48, failedTest = test22222
+[INFO ]16:50:48, Remove repeat Fail Test: test33333
+[INFO ]16:50:48, Remove repeat Fail Test: test22222
+[INFO ]16:52:56, screenShotpath=
+[INFO ]16:52:56, RetryCount=1
+[INFO ]16:52:56, test1111 Start
+[INFO ]16:52:56, test1111 Start
+[INFO ]16:52:58, test1111 Success
+[INFO ]16:52:58, test1111 Success
+[INFO ]16:52:58, test22222 Start
+[INFO ]16:52:58, test22222 Start
+[INFO ]16:53:00, username=kevinkong
+[INFO ]16:53:00, password=111
+[INFO ]16:53:00, test22222 Failure
+[INFO ]16:53:00, test22222 Failure
+[INFO ]16:53:00, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:53:00, test22222 Start
+[INFO ]16:53:00, test22222 Start
+[INFO ]16:53:02, username=kevinkong
+[INFO ]16:53:02, password=111
+[INFO ]16:53:02, test22222 Failure
+[INFO ]16:53:02, test22222 Failure
+[INFO ]16:53:02, test22222 Start
+[INFO ]16:53:02, test22222 Start
+[INFO ]16:53:04, username=test
+[INFO ]16:53:04, password=222
+[INFO ]16:53:04, test22222 Failure
+[INFO ]16:53:04, test22222 Failure
+[INFO ]16:53:04, test33333 Start
+[INFO ]16:53:04, test33333 Start
+[INFO ]16:53:06, test33333 Failure
+[INFO ]16:53:06, test33333 Failure
+[INFO ]16:53:06, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:53:06, test33333 Start
+[INFO ]16:53:06, test33333 Start
+[INFO ]16:53:08, test33333 Failure
+[INFO ]16:53:08, test33333 Failure
+[INFO ]16:53:08, PassedTests = test1111
+[INFO ]16:53:08, failedTest = test22222
+[INFO ]16:53:08, failedTest = test22222
+[INFO ]16:53:08, failedTest = test33333
+[INFO ]16:53:08, failedTest = test33333
+[INFO ]16:53:08, failedTest = test22222
+[INFO ]16:53:08, Remove repeat Fail Test: test33333
+[INFO ]16:53:08, Remove repeat Fail Test: test22222
+[INFO ]16:53:08, PassedTests = test1111
+[INFO ]16:53:08, failedTest = test22222
+[INFO ]16:53:08, failedTest = test22222
+[INFO ]16:53:08, failedTest = test33333
+[INFO ]16:53:41, screenShotpath=
+[INFO ]16:53:41, RetryCount=1
+[INFO ]16:53:41, test1111 Start
+[INFO ]16:53:43, test1111 Success
+[INFO ]16:53:43, test22222 Start
+[INFO ]16:53:45, username=kevinkong
+[INFO ]16:53:45, password=111
+[INFO ]16:53:45, test22222 Failure
+[INFO ]16:53:45, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:53:45, test22222 Start
+[INFO ]16:53:47, username=kevinkong
+[INFO ]16:53:47, password=111
+[INFO ]16:53:47, test22222 Failure
+[INFO ]16:53:47, test22222 Start
+[INFO ]16:53:49, username=test
+[INFO ]16:53:49, password=222
+[INFO ]16:53:49, test22222 Failure
+[INFO ]16:53:49, test33333 Start
+[INFO ]16:53:51, test33333 Failure
+[INFO ]16:53:51, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]16:53:51, test33333 Start
+[INFO ]16:53:53, test33333 Failure
+[INFO ]16:53:53, PassedTests = test1111
+[INFO ]16:53:53, failedTest = test33333
+[INFO ]16:53:53, failedTest = test33333
+[INFO ]16:53:53, failedTest = test22222
+[INFO ]16:53:53, failedTest = test22222
+[INFO ]16:53:53, failedTest = test22222
+[INFO ]16:53:53, Remove repeat Fail Test: test33333
+[INFO ]16:53:53, Remove repeat Fail Test: test22222
+[INFO ]17:16:04, screenShotpath=
+[INFO ]17:16:04, RetryCount=1
+[INFO ]17:16:04, threads = 1
+[INFO ]17:16:04, parallel = false
+[INFO ]17:16:04, retry = null
+[INFO ]17:16:04, test1111 Start
+[INFO ]17:16:06, test1111 Success
+[INFO ]17:16:06, test22222 Start
+[INFO ]17:16:08, username=kevinkong
+[INFO ]17:16:08, password=111
+[INFO ]17:16:08, test22222 Failure
+[INFO ]17:16:08, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:16:08, test22222 Start
+[INFO ]17:16:10, username=kevinkong
+[INFO ]17:16:10, password=111
+[INFO ]17:16:10, test22222 Failure
+[INFO ]17:16:10, test22222 Start
+[INFO ]17:16:12, username=test
+[INFO ]17:16:12, password=222
+[INFO ]17:16:12, test22222 Failure
+[INFO ]17:16:12, test33333 Start
+[INFO ]17:16:14, test33333 Failure
+[INFO ]17:16:14, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:16:14, test33333 Start
+[INFO ]17:16:16, test33333 Failure
+[INFO ]17:16:16, PassedTests = test1111
+[INFO ]17:16:16, failedTest = test33333
+[INFO ]17:16:16, failedTest = test22222
+[INFO ]17:16:16, failedTest = test22222
+[INFO ]17:16:16, failedTest = test33333
+[INFO ]17:16:16, failedTest = test22222
+[INFO ]17:16:16, Remove repeat Fail Test: test33333
+[INFO ]17:16:16, Remove repeat Fail Test: test22222
+[INFO ]17:16:35, screenShotpath=
+[INFO ]17:16:35, RetryCount=1
+[INFO ]17:16:35, threads = 1
+[INFO ]17:16:35, parallel = false
+[INFO ]17:16:35, retry = 2
+[INFO ]17:16:35, test1111 Start
+[INFO ]17:16:37, test1111 Success
+[INFO ]17:16:37, test22222 Start
+[INFO ]17:16:39, username=kevinkong
+[INFO ]17:16:39, password=111
+[INFO ]17:16:39, test22222 Failure
+[INFO ]17:16:39, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:16:39, test22222 Start
+[INFO ]17:16:41, username=kevinkong
+[INFO ]17:16:41, password=111
+[INFO ]17:16:41, test22222 Failure
+[INFO ]17:16:41, test22222 Start
+[INFO ]17:16:43, username=test
+[INFO ]17:16:43, password=222
+[INFO ]17:16:43, test22222 Failure
+[INFO ]17:16:43, test33333 Start
+[INFO ]17:16:45, test33333 Failure
+[INFO ]17:16:45, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:16:45, test33333 Start
+[INFO ]17:16:47, test33333 Failure
+[INFO ]17:16:47, PassedTests = test1111
+[INFO ]17:16:47, failedTest = test33333
+[INFO ]17:16:47, failedTest = test33333
+[INFO ]17:16:47, failedTest = test22222
+[INFO ]17:16:47, failedTest = test22222
+[INFO ]17:16:47, failedTest = test22222
+[INFO ]17:16:47, Remove repeat Fail Test: test33333
+[INFO ]17:16:47, Remove repeat Fail Test: test22222
+[INFO ]17:22:51, screenShotpath=
+[INFO ]17:22:51, RetryCount=1
+[INFO ]17:22:51, threads = 1
+[INFO ]17:22:51, parallel = false
+[INFO ]17:22:51, retry = null
+[INFO ]17:22:51, test1111 Start
+[INFO ]17:22:53, test1111 Success
+[INFO ]17:22:53, test22222 Start
+[INFO ]17:22:55, username=kevinkong
+[INFO ]17:22:55, password=111
+[INFO ]17:22:55, test22222 Failure
+[INFO ]17:22:55, Retry for [test22222] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:22:55, test22222 Start
+[INFO ]17:22:57, username=kevinkong
+[INFO ]17:22:57, password=111
+[INFO ]17:22:57, test22222 Failure
+[INFO ]17:22:57, test22222 Start
+[INFO ]17:22:59, username=test
+[INFO ]17:22:59, password=222
+[INFO ]17:22:59, test22222 Failure
+[INFO ]17:22:59, test33333 Start
+[INFO ]17:23:01, test33333 Failure
+[INFO ]17:23:01, Retry for [test33333] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:23:01, test33333 Start
+[INFO ]17:23:03, test33333 Failure
+[INFO ]17:23:03, PassedTests = test1111
+[INFO ]17:23:03, failedTest = test33333
+[INFO ]17:23:03, failedTest = test22222
+[INFO ]17:23:03, failedTest = test22222
+[INFO ]17:23:03, failedTest = test33333
+[INFO ]17:23:03, failedTest = test22222
+[INFO ]17:23:03, Remove repeat Fail Test: test33333
+[INFO ]17:23:03, Remove repeat Fail Test: test22222
+[INFO ]17:25:55, screenShotpath=
+[INFO ]17:25:55, RetryCount=1
+[INFO ]17:25:55, threads = 1
+[INFO ]17:25:55, parallel = false
+[INFO ]17:25:55, retry = null
+[INFO ]17:25:55, test1111 Start
+[INFO ]17:25:55, test1111 Skipped
+[INFO ]17:25:55, test33333 Start
+[INFO ]17:25:55, test33333 Skipped
+[INFO ]17:33:06, screenShotpath=
+[INFO ]17:33:07, RetryCount=3
+[INFO ]17:33:07, threads = 1
+[INFO ]17:33:07, parallel = false
+[INFO ]17:33:07, retry = null
+[INFO ]17:33:07, test1111 Start
+[INFO ]17:33:09, test1111 Success
+[INFO ]17:33:09, test33333 Start
+[INFO ]17:33:09, test33333 Skipped
+[INFO ]17:33:09, test1111 Start
+[INFO ]17:33:11, test1111 Success
+[INFO ]17:33:11, test22222 Start
+[INFO ]17:33:13, username=kevinkong
+[INFO ]17:33:13, password=111
+[INFO ]17:33:13, test22222 Failure
+[INFO ]17:33:13, Retry for [test22222] on class [com.netease.qa.testng.demo.TestKevin] Retry 1 times
+[INFO ]17:33:13, test22222 Start
+[INFO ]17:33:15, username=kevinkong
+[INFO ]17:33:15, password=111
+[INFO ]17:33:15, test22222 Failure
+[INFO ]17:33:15, Retry for [test22222] on class [com.netease.qa.testng.demo.TestKevin] Retry 2 times
+[INFO ]17:33:15, test22222 Start
+[INFO ]17:33:17, username=kevinkong
+[INFO ]17:33:17, password=111
+[INFO ]17:33:17, test22222 Failure
+[INFO ]17:33:17, Retry for [test22222] on class [com.netease.qa.testng.demo.TestKevin] Retry 3 times
+[INFO ]17:33:17, test22222 Start
+[INFO ]17:33:19, username=kevinkong
+[INFO ]17:33:19, password=111
+[INFO ]17:33:19, test22222 Failure
+[INFO ]17:33:19, test22222 Start
+[INFO ]17:33:21, username=test
+[INFO ]17:33:21, password=222
+[INFO ]17:33:21, test22222 Failure
+[INFO ]17:33:21, test33333 Start
+[INFO ]17:33:23, test33333 Failure
+[INFO ]17:33:23, Retry for [test33333] on class [com.netease.qa.testng.demo.TestKevin] Retry 1 times
+[INFO ]17:33:23, test33333 Start
+[INFO ]17:33:25, test33333 Failure
+[INFO ]17:33:25, Retry for [test33333] on class [com.netease.qa.testng.demo.TestKevin] Retry 2 times
+[INFO ]17:33:25, test33333 Start
+[INFO ]17:33:27, test33333 Failure
+[INFO ]17:33:27, Retry for [test33333] on class [com.netease.qa.testng.demo.TestKevin] Retry 3 times
+[INFO ]17:33:27, test33333 Start
+[INFO ]17:33:29, test33333 Failure
+[INFO ]17:33:29, PassedTests = test1111
+[INFO ]17:33:29, PassedTests = test1111
+[INFO ]17:33:29, failedTest = test22222
+[INFO ]17:33:29, failedTest = test22222
+[INFO ]17:33:29, failedTest = test33333
+[INFO ]17:33:29, failedTest = test22222
+[INFO ]17:33:29, failedTest = test33333
+[INFO ]17:33:29, failedTest = test33333
+[INFO ]17:33:29, failedTest = test22222
+[INFO ]17:33:29, failedTest = test22222
+[INFO ]17:33:29, failedTest = test33333
+[INFO ]17:33:29, Remove repeat Fail Test: test22222
+[INFO ]17:33:29, Remove repeat Fail Test: test22222
+[INFO ]17:33:29, Remove repeat Fail Test: test33333
+[INFO ]17:33:29, Remove repeat Fail Test: test33333
+[INFO ]17:33:29, Remove repeat Fail Test: test22222
+[INFO ]17:33:29, Remove repeat Fail Test: test33333
+[INFO ]17:37:29, screenShotpath=
+[INFO ]17:37:29, RetryCount=2
+[INFO ]17:37:29, threads = 1
+[INFO ]17:37:29, parallel = false
+[INFO ]17:37:29, retry = null
+[INFO ]17:37:29, test10 Start
+[INFO ]17:37:29, test10 Skipped
+[INFO ]17:37:29, test7 Start
+[INFO ]17:37:29, test7 Skipped
+[INFO ]17:37:29, test8 Start
+[INFO ]17:37:29, test8 Skipped
+[INFO ]17:37:29, test9 Start
+[INFO ]17:37:29, test9 Skipped
+[INFO ]17:37:44, screenShotpath=
+[INFO ]17:37:45, RetryCount=2
+[INFO ]17:37:45, threads = 1
+[INFO ]17:37:45, parallel = false
+[INFO ]17:37:45, retry = null
+[INFO ]17:37:45, test10 Start
+[INFO ]17:37:47, test10 Failure
+[INFO ]17:37:47, Retry for [test10] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:37:47, test10 Start
+[INFO ]17:37:49, test10 Failure
+[INFO ]17:37:49, Retry for [test10] on class [com.netease.qa.testng.demo.TestK] Retry 2 times
+[INFO ]17:37:49, test10 Start
+[INFO ]17:37:49, test10 Skipped
+[INFO ]17:37:49, test7 Start
+[INFO ]17:37:49, test7 Skipped
+[INFO ]17:37:49, test8 Start
+[INFO ]17:37:49, test8 Skipped
+[INFO ]17:37:49, test9 Start
+[INFO ]17:37:49, test9 Skipped
+[INFO ]17:37:49, failedTest = test10
+[INFO ]17:37:49, failedTest = test10
+[INFO ]17:37:49, Remove repeat Fail Test: test10
+[INFO ]17:46:58, screenShotpath=
+[INFO ]17:46:59, RetryCount=2
+[INFO ]17:46:59, threads = 1
+[INFO ]17:46:59, parallel = false
+[INFO ]17:46:59, retry = null
+[INFO ]17:46:59, test10 Start
+[INFO ]17:46:59, test10 Skipped
+[INFO ]17:46:59, test7 Start
+[INFO ]17:46:59, test7 Skipped
+[INFO ]17:46:59, test8 Start
+[INFO ]17:46:59, test8 Skipped
+[INFO ]17:46:59, test9 Start
+[INFO ]17:46:59, test9 Skipped
+[INFO ]17:47:03, screenShotpath=
+[INFO ]17:47:03, RetryCount=2
+[INFO ]17:47:03, threads = 1
+[INFO ]17:47:03, parallel = false
+[INFO ]17:47:03, retry = null
+[INFO ]17:47:03, test10 Start
+[INFO ]17:47:05, test10 Failure
+[INFO ]17:47:05, Retry for [test10] on class [com.netease.qa.testng.demo.TestK] Retry 1 times
+[INFO ]17:47:05, test10 Start
+[INFO ]17:47:05, test10 Skipped
+[INFO ]17:47:05, test7 Start
+[INFO ]17:47:05, test7 Skipped
+[INFO ]17:47:05, test8 Start
+[INFO ]17:47:05, test8 Skipped
+[INFO ]17:47:05, test9 Start
+[INFO ]17:47:05, test9 Skipped
+[INFO ]17:47:06, failedTest = test10

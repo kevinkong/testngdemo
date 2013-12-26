@@ -1,0 +1,3823 @@
+[INFO ]11:58:30, SkipTestsetUp
+[INFO ]12:00:09, testSuccess setUp
+[INFO ]12:00:09, testSuccess
+[INFO ]12:00:54, RetryCount=2
+[INFO ]12:00:54, RetryCount=2
+[INFO ]12:00:54, testFail1Skip Start
+[INFO ]12:00:54, count=1
+[INFO ]12:00:54, testFail1Skip Failure
+[INFO ]12:00:54, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 1 times
+[INFO ]12:00:54, testFail1Skip Start
+[INFO ]12:00:54, testFail1Skip Skipped
+[INFO ]12:00:54, testFail1Skip Failure
+[INFO ]12:00:54, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 2 times
+[INFO ]12:00:54, testFail1Skip Start
+[INFO ]12:00:54, testFail1Skip Skipped
+[INFO ]12:00:54, testFail1Skip Failure
+[INFO ]12:00:54, testSuccess setUp
+[INFO ]12:00:54, testSuccess Start
+[INFO ]12:00:54, testSuccess
+[INFO ]12:00:54, testSuccess Success
+[INFO ]12:00:54, PassedTests = testSuccess
+[INFO ]12:00:54, failedTest = testFail1Skip
+[INFO ]12:00:54, failedTest = testFail1Skip
+[INFO ]12:00:54, failedTest = testFail1Skip
+[INFO ]12:00:54, Remove repeat Fail Test: testFail1Skip
+[INFO ]12:00:54, Remove repeat Fail Test: testFail1Skip
+[INFO ]12:01:51, RetryCount=2
+[INFO ]12:01:51, RetryCount=2
+[INFO ]12:01:51, Fail1SkipTest setUp
+[INFO ]12:01:51, testFail1Skip Start
+[INFO ]12:01:51, count=1
+[INFO ]12:01:51, testFail1Skip Failure
+[INFO ]12:01:51, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 1 times
+[INFO ]12:01:51, Fail1SkipTest setUp
+[INFO ]12:01:51, testFail1Skip Start
+[INFO ]12:01:51, testFail1Skip Skipped
+[INFO ]12:01:51, testFail1Skip Failure
+[INFO ]12:01:51, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 2 times
+[INFO ]12:01:51, testFail1Skip Start
+[INFO ]12:01:51, testFail1Skip Skipped
+[INFO ]12:01:51, testFail1Skip Failure
+[INFO ]12:01:51, testSuccess setUp
+[INFO ]12:01:51, testSuccess Start
+[INFO ]12:01:51, testSuccess
+[INFO ]12:01:51, testSuccess Success
+[INFO ]12:01:51, PassedTests = testSuccess
+[INFO ]12:01:51, failedTest = testFail1Skip
+[INFO ]12:01:51, failedTest = testFail1Skip
+[INFO ]12:01:51, failedTest = testFail1Skip
+[INFO ]12:01:51, Remove repeat Fail Test: testFail1Skip
+[INFO ]12:01:51, Remove repeat Fail Test: testFail1Skip
+[INFO ]12:06:16, screenShotpath=
+[INFO ]12:06:16, RetryCount=2
+[INFO ]12:06:16, Fail1SkipTest setUp
+[INFO ]12:06:16, testFail1Skip Start
+[INFO ]12:06:16, count=1
+[INFO ]12:06:16, testFail1Skip Failure
+[INFO ]12:06:16, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 1 times
+[INFO ]12:06:16, Fail1SkipTest setUp
+[INFO ]12:06:16, testFail1Skip Start
+[INFO ]12:06:16, testFail1Skip Skipped
+[INFO ]12:06:16, testSuccess setUp
+[INFO ]12:06:16, testSuccess Start
+[INFO ]12:06:16, testSuccess
+[INFO ]12:06:16, testSuccess Success
+[INFO ]12:06:16, PassedTests = testSuccess
+[INFO ]12:06:16, skipTest = testFail1Skip
+[INFO ]12:06:16, failedTest = testFail1Skip
+[INFO ]12:06:16, Remove repeat Fail Test: testFail1Skip
+[INFO ]12:19:20, screenShotpath=
+[INFO ]12:19:20, RetryCount=2
+[INFO ]12:19:20, Fail1SkipTest()
+[INFO ]12:19:20, Fail1SkipTest setUp
+[INFO ]12:19:20, testFail1Skip Start
+[INFO ]12:19:20, count=1
+[INFO ]12:19:20, testFail1Skip Failure
+[INFO ]12:19:20, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 1 times
+[INFO ]12:19:20, Fail1SkipTest setUp
+[INFO ]12:19:20, testFail1Skip Start
+[INFO ]12:19:20, testFail1Skip Skipped
+[INFO ]12:19:20, testSuccess setUp
+[INFO ]12:19:20, testSuccess Start
+[INFO ]12:19:20, testSuccess
+[INFO ]12:19:20, testSuccess Success
+[INFO ]12:19:21, PassedTests = testSuccess
+[INFO ]12:19:21, skipTest = testFail1Skip
+[INFO ]12:19:21, failedTest = testFail1Skip
+[INFO ]12:19:21, Remove repeat Fail Test: testFail1Skip
+[INFO ]12:20:16, screenShotpath=
+[INFO ]12:20:16, RetryCount=2
+[INFO ]12:20:16, Fail1SkipTest()
+[INFO ]12:20:16, Fail1SkipTest setUp
+[INFO ]12:20:16, testFail1Skip Start
+[INFO ]12:20:16, count=1
+[INFO ]12:20:16, testFail1Skip Failure
+[INFO ]12:20:16, Retry for [testFail1Skip] on class [com.netease.qa.testng.demo.Fail1SkipTest] Retry 1 times
+[INFO ]12:20:16, Fail1SkipTest setUp
+[INFO ]12:20:16, testFail1Skip Start
+[INFO ]12:20:16, testFail1Skip Skipped
+[INFO ]12:20:16, testSuccess setUp
+[INFO ]12:20:16, testSuccess Start
+[INFO ]12:20:16, testSuccess
+[INFO ]12:20:16, testSuccess Success
+[INFO ]12:20:16, PassedTests = testSuccess
+[INFO ]12:20:16, skipTest = testFail1Skip
+[INFO ]12:20:16, failedTest = testFail1Skip
+[INFO ]12:20:16, Remove repeat Fail Test: testFail1Skip
+[INFO ]12:25:34, screenShotpath=
+[INFO ]12:25:34, RetryCount=100
+[INFO ]12:25:34, testSuccess setUp
+[INFO ]12:25:34, testSuccess Start
+[INFO ]12:25:34, testSuccess
+[INFO ]12:25:34, testSuccess Success
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 5 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 6 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 7 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 8 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 9 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 10 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 11 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 12 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 13 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 14 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 15 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 16 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 17 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 18 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 19 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 20 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 21 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 22 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 23 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 24 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 25 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 26 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 27 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 28 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 29 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 30 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 31 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 32 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 33 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 34 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 35 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 36 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 37 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 38 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 39 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 40 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 41 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 42 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 43 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 44 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 45 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 46 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 47 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 48 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 49 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 50 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 51 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 52 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 53 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 54 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 55 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 56 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 57 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 58 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 59 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 60 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 61 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 62 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 63 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 64 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 65 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 66 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 67 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 68 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 69 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 70 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 71 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 72 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 73 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 74 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 75 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 76 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 77 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 78 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 79 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 80 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 81 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 82 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 83 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 84 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 85 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 86 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 87 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 88 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 89 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 90 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 91 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 92 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 93 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 94 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 95 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 96 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 97 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 98 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 99 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 100 times
+[INFO ]12:25:34, Fail3Test setUp
+[INFO ]12:25:34, testFail3 Start
+[INFO ]12:25:34, count=0
+[INFO ]12:25:34, testFail3 Failure
+[INFO ]12:25:35, PassedTests = testSuccess
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, failedTest = testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:25:35, Remove repeat Fail Test: testFail3
+[INFO ]12:26:21, screenShotpath=
+[INFO ]12:26:21, RetryCount=100
+[INFO ]12:26:22, testSuccess setUp
+[INFO ]12:26:22, testSuccess Start
+[INFO ]12:26:22, testSuccess
+[INFO ]12:26:22, testSuccess Success
+[INFO ]12:26:22, Fail3Test setUp
+[INFO ]12:26:22, testFail3 Start
+[INFO ]12:26:22, count=0
+[INFO ]12:26:23, testFail3 Failure
+[INFO ]12:26:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]12:26:23, Fail3Test setUp
+[INFO ]12:26:23, testFail3 Start
+[INFO ]12:26:23, count=0
+[INFO ]12:26:24, testFail3 Failure
+[INFO ]12:26:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]12:26:24, Fail3Test setUp
+[INFO ]12:26:24, testFail3 Start
+[INFO ]12:26:24, count=0
+[INFO ]12:26:25, testFail3 Failure
+[INFO ]12:26:25, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]12:26:25, Fail3Test setUp
+[INFO ]12:26:25, testFail3 Start
+[INFO ]12:26:25, count=0
+[INFO ]12:26:26, testFail3 Failure
+[INFO ]12:26:26, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]12:26:26, Fail3Test setUp
+[INFO ]12:26:26, testFail3 Start
+[INFO ]12:26:26, count=0
+[INFO ]12:26:27, testFail3 Failure
+[INFO ]12:26:27, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 5 times
+[INFO ]12:26:27, Fail3Test setUp
+[INFO ]12:26:27, testFail3 Start
+[INFO ]12:26:27, count=0
+[INFO ]12:26:28, testFail3 Failure
+[INFO ]12:26:28, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 6 times
+[INFO ]12:26:28, Fail3Test setUp
+[INFO ]12:26:28, testFail3 Start
+[INFO ]12:26:28, count=0
+[INFO ]12:26:29, testFail3 Failure
+[INFO ]12:26:29, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 7 times
+[INFO ]12:26:29, Fail3Test setUp
+[INFO ]12:26:29, testFail3 Start
+[INFO ]12:26:29, count=0
+[INFO ]12:26:30, testFail3 Failure
+[INFO ]12:26:30, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 8 times
+[INFO ]12:26:30, Fail3Test setUp
+[INFO ]12:26:30, testFail3 Start
+[INFO ]12:26:30, count=0
+[INFO ]12:26:31, testFail3 Failure
+[INFO ]12:26:31, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 9 times
+[INFO ]12:26:31, Fail3Test setUp
+[INFO ]12:26:31, testFail3 Start
+[INFO ]12:26:31, count=0
+[INFO ]12:26:32, testFail3 Failure
+[INFO ]12:26:32, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 10 times
+[INFO ]12:26:32, Fail3Test setUp
+[INFO ]12:26:32, testFail3 Start
+[INFO ]12:26:32, count=0
+[INFO ]12:26:33, testFail3 Failure
+[INFO ]12:26:33, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 11 times
+[INFO ]12:26:33, Fail3Test setUp
+[INFO ]12:26:33, testFail3 Start
+[INFO ]12:26:33, count=0
+[INFO ]12:26:34, testFail3 Failure
+[INFO ]12:26:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 12 times
+[INFO ]12:26:34, Fail3Test setUp
+[INFO ]12:26:34, testFail3 Start
+[INFO ]12:26:34, count=0
+[INFO ]12:26:35, testFail3 Failure
+[INFO ]12:26:35, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 13 times
+[INFO ]12:26:35, Fail3Test setUp
+[INFO ]12:26:35, testFail3 Start
+[INFO ]12:26:35, count=0
+[INFO ]12:26:36, testFail3 Failure
+[INFO ]12:26:36, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 14 times
+[INFO ]12:26:36, Fail3Test setUp
+[INFO ]12:26:36, testFail3 Start
+[INFO ]12:26:36, count=0
+[INFO ]12:26:37, testFail3 Failure
+[INFO ]12:26:37, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 15 times
+[INFO ]12:26:37, Fail3Test setUp
+[INFO ]12:26:37, testFail3 Start
+[INFO ]12:26:37, count=0
+[INFO ]12:26:38, testFail3 Failure
+[INFO ]12:26:38, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 16 times
+[INFO ]12:26:38, Fail3Test setUp
+[INFO ]12:26:38, testFail3 Start
+[INFO ]12:26:38, count=0
+[INFO ]12:26:39, testFail3 Failure
+[INFO ]12:26:39, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 17 times
+[INFO ]12:26:39, Fail3Test setUp
+[INFO ]12:26:39, testFail3 Start
+[INFO ]12:26:39, count=0
+[INFO ]12:26:40, testFail3 Failure
+[INFO ]12:26:40, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 18 times
+[INFO ]12:26:40, Fail3Test setUp
+[INFO ]12:26:40, testFail3 Start
+[INFO ]12:26:40, count=0
+[INFO ]12:26:41, testFail3 Failure
+[INFO ]12:26:41, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 19 times
+[INFO ]12:26:41, Fail3Test setUp
+[INFO ]12:26:41, testFail3 Start
+[INFO ]12:26:41, count=0
+[INFO ]12:26:42, testFail3 Failure
+[INFO ]12:26:42, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 20 times
+[INFO ]12:26:42, Fail3Test setUp
+[INFO ]12:26:42, testFail3 Start
+[INFO ]12:26:42, count=0
+[INFO ]12:26:43, testFail3 Failure
+[INFO ]12:26:43, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 21 times
+[INFO ]12:26:43, Fail3Test setUp
+[INFO ]12:26:43, testFail3 Start
+[INFO ]12:26:43, count=0
+[INFO ]12:26:44, testFail3 Failure
+[INFO ]12:26:44, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 22 times
+[INFO ]12:26:44, Fail3Test setUp
+[INFO ]12:26:44, testFail3 Start
+[INFO ]12:26:44, count=0
+[INFO ]12:26:45, testFail3 Failure
+[INFO ]12:26:45, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 23 times
+[INFO ]12:26:45, Fail3Test setUp
+[INFO ]12:26:45, testFail3 Start
+[INFO ]12:26:45, count=0
+[INFO ]12:26:46, testFail3 Failure
+[INFO ]12:26:46, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 24 times
+[INFO ]12:26:46, Fail3Test setUp
+[INFO ]12:26:46, testFail3 Start
+[INFO ]12:26:46, count=0
+[INFO ]12:26:47, testFail3 Failure
+[INFO ]12:26:47, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 25 times
+[INFO ]12:26:47, Fail3Test setUp
+[INFO ]12:26:47, testFail3 Start
+[INFO ]12:26:47, count=0
+[INFO ]12:26:48, testFail3 Failure
+[INFO ]12:26:48, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 26 times
+[INFO ]12:26:48, Fail3Test setUp
+[INFO ]12:26:48, testFail3 Start
+[INFO ]12:26:48, count=0
+[INFO ]12:26:49, testFail3 Failure
+[INFO ]12:26:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 27 times
+[INFO ]12:26:49, Fail3Test setUp
+[INFO ]12:26:49, testFail3 Start
+[INFO ]12:26:49, count=0
+[INFO ]12:26:50, testFail3 Failure
+[INFO ]12:26:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 28 times
+[INFO ]12:26:50, Fail3Test setUp
+[INFO ]12:26:50, testFail3 Start
+[INFO ]12:26:50, count=0
+[INFO ]12:26:51, testFail3 Failure
+[INFO ]12:26:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 29 times
+[INFO ]12:26:51, Fail3Test setUp
+[INFO ]12:26:51, testFail3 Start
+[INFO ]12:26:51, count=0
+[INFO ]12:26:52, testFail3 Failure
+[INFO ]12:26:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 30 times
+[INFO ]12:26:52, Fail3Test setUp
+[INFO ]12:26:52, testFail3 Start
+[INFO ]12:26:52, count=0
+[INFO ]12:26:53, testFail3 Failure
+[INFO ]12:26:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 31 times
+[INFO ]12:26:53, Fail3Test setUp
+[INFO ]12:26:53, testFail3 Start
+[INFO ]12:26:53, count=0
+[INFO ]12:26:54, testFail3 Failure
+[INFO ]12:26:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 32 times
+[INFO ]12:26:54, Fail3Test setUp
+[INFO ]12:26:54, testFail3 Start
+[INFO ]12:26:54, count=0
+[INFO ]12:26:55, testFail3 Failure
+[INFO ]12:26:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 33 times
+[INFO ]12:26:55, Fail3Test setUp
+[INFO ]12:26:55, testFail3 Start
+[INFO ]12:26:55, count=0
+[INFO ]12:26:56, testFail3 Failure
+[INFO ]12:26:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 34 times
+[INFO ]12:26:56, Fail3Test setUp
+[INFO ]12:26:56, testFail3 Start
+[INFO ]12:26:56, count=0
+[INFO ]12:26:57, testFail3 Failure
+[INFO ]12:26:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 35 times
+[INFO ]12:26:57, Fail3Test setUp
+[INFO ]12:26:57, testFail3 Start
+[INFO ]12:26:57, count=0
+[INFO ]12:26:58, testFail3 Failure
+[INFO ]12:26:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 36 times
+[INFO ]12:26:58, Fail3Test setUp
+[INFO ]12:26:58, testFail3 Start
+[INFO ]12:26:58, count=0
+[INFO ]12:26:59, testFail3 Failure
+[INFO ]12:26:59, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 37 times
+[INFO ]12:26:59, Fail3Test setUp
+[INFO ]12:26:59, testFail3 Start
+[INFO ]12:26:59, count=0
+[INFO ]12:27:00, testFail3 Failure
+[INFO ]12:27:00, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 38 times
+[INFO ]12:27:00, Fail3Test setUp
+[INFO ]12:27:00, testFail3 Start
+[INFO ]12:27:00, count=0
+[INFO ]12:27:01, testFail3 Failure
+[INFO ]12:27:01, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 39 times
+[INFO ]12:27:01, Fail3Test setUp
+[INFO ]12:27:01, testFail3 Start
+[INFO ]12:27:01, count=0
+[INFO ]12:27:02, testFail3 Failure
+[INFO ]12:27:02, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 40 times
+[INFO ]12:27:02, Fail3Test setUp
+[INFO ]12:27:02, testFail3 Start
+[INFO ]12:27:02, count=0
+[INFO ]12:27:03, testFail3 Failure
+[INFO ]12:27:03, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 41 times
+[INFO ]12:27:03, Fail3Test setUp
+[INFO ]12:27:03, testFail3 Start
+[INFO ]12:27:03, count=0
+[INFO ]12:27:04, testFail3 Failure
+[INFO ]12:27:04, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 42 times
+[INFO ]12:27:04, Fail3Test setUp
+[INFO ]12:27:04, testFail3 Start
+[INFO ]12:27:04, count=0
+[INFO ]12:27:05, testFail3 Failure
+[INFO ]12:27:05, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 43 times
+[INFO ]12:27:05, Fail3Test setUp
+[INFO ]12:27:05, testFail3 Start
+[INFO ]12:27:05, count=0
+[INFO ]12:27:06, testFail3 Failure
+[INFO ]12:27:06, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 44 times
+[INFO ]12:27:06, Fail3Test setUp
+[INFO ]12:27:06, testFail3 Start
+[INFO ]12:27:06, count=0
+[INFO ]12:27:07, testFail3 Failure
+[INFO ]12:27:07, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 45 times
+[INFO ]12:27:07, Fail3Test setUp
+[INFO ]12:27:07, testFail3 Start
+[INFO ]12:27:07, count=0
+[INFO ]12:27:08, testFail3 Failure
+[INFO ]12:27:08, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 46 times
+[INFO ]12:27:08, Fail3Test setUp
+[INFO ]12:27:08, testFail3 Start
+[INFO ]12:27:08, count=0
+[INFO ]12:27:09, testFail3 Failure
+[INFO ]12:27:09, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 47 times
+[INFO ]12:27:09, Fail3Test setUp
+[INFO ]12:27:09, testFail3 Start
+[INFO ]12:27:09, count=0
+[INFO ]12:27:10, testFail3 Failure
+[INFO ]12:27:10, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 48 times
+[INFO ]12:27:10, Fail3Test setUp
+[INFO ]12:27:10, testFail3 Start
+[INFO ]12:27:10, count=0
+[INFO ]12:27:11, testFail3 Failure
+[INFO ]12:27:11, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 49 times
+[INFO ]12:27:11, Fail3Test setUp
+[INFO ]12:27:11, testFail3 Start
+[INFO ]12:27:11, count=0
+[INFO ]12:27:12, testFail3 Failure
+[INFO ]12:27:12, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 50 times
+[INFO ]12:27:12, Fail3Test setUp
+[INFO ]12:27:12, testFail3 Start
+[INFO ]12:27:12, count=0
+[INFO ]12:27:13, testFail3 Failure
+[INFO ]12:27:13, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 51 times
+[INFO ]12:27:13, Fail3Test setUp
+[INFO ]12:27:13, testFail3 Start
+[INFO ]12:27:13, count=0
+[INFO ]12:27:14, testFail3 Failure
+[INFO ]12:27:14, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 52 times
+[INFO ]12:27:14, Fail3Test setUp
+[INFO ]12:27:14, testFail3 Start
+[INFO ]12:27:14, count=0
+[INFO ]12:27:15, testFail3 Failure
+[INFO ]12:27:15, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 53 times
+[INFO ]12:27:15, Fail3Test setUp
+[INFO ]12:27:15, testFail3 Start
+[INFO ]12:27:15, count=0
+[INFO ]12:27:16, testFail3 Failure
+[INFO ]12:27:16, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 54 times
+[INFO ]12:27:16, Fail3Test setUp
+[INFO ]12:27:16, testFail3 Start
+[INFO ]12:27:16, count=0
+[INFO ]12:27:17, testFail3 Failure
+[INFO ]12:27:17, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 55 times
+[INFO ]12:27:17, Fail3Test setUp
+[INFO ]12:27:17, testFail3 Start
+[INFO ]12:27:17, count=0
+[INFO ]12:27:18, testFail3 Failure
+[INFO ]12:27:18, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 56 times
+[INFO ]12:27:18, Fail3Test setUp
+[INFO ]12:27:18, testFail3 Start
+[INFO ]12:27:18, count=0
+[INFO ]12:27:19, testFail3 Failure
+[INFO ]12:27:19, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 57 times
+[INFO ]12:27:19, Fail3Test setUp
+[INFO ]12:27:19, testFail3 Start
+[INFO ]12:27:19, count=0
+[INFO ]12:27:20, testFail3 Failure
+[INFO ]12:27:20, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 58 times
+[INFO ]12:27:20, Fail3Test setUp
+[INFO ]12:27:20, testFail3 Start
+[INFO ]12:27:20, count=0
+[INFO ]12:27:21, testFail3 Failure
+[INFO ]12:27:21, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 59 times
+[INFO ]12:27:21, Fail3Test setUp
+[INFO ]12:27:21, testFail3 Start
+[INFO ]12:27:21, count=0
+[INFO ]12:27:22, testFail3 Failure
+[INFO ]12:27:22, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 60 times
+[INFO ]12:27:22, Fail3Test setUp
+[INFO ]12:27:22, testFail3 Start
+[INFO ]12:27:22, count=0
+[INFO ]12:27:23, testFail3 Failure
+[INFO ]12:27:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 61 times
+[INFO ]12:27:23, Fail3Test setUp
+[INFO ]12:27:23, testFail3 Start
+[INFO ]12:27:23, count=0
+[INFO ]12:27:24, testFail3 Failure
+[INFO ]12:27:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 62 times
+[INFO ]12:27:24, Fail3Test setUp
+[INFO ]12:27:24, testFail3 Start
+[INFO ]12:27:24, count=0
+[INFO ]12:27:25, testFail3 Failure
+[INFO ]12:27:25, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 63 times
+[INFO ]12:27:25, Fail3Test setUp
+[INFO ]12:27:25, testFail3 Start
+[INFO ]12:27:25, count=0
+[INFO ]12:27:26, testFail3 Failure
+[INFO ]12:27:26, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 64 times
+[INFO ]12:27:26, Fail3Test setUp
+[INFO ]12:27:26, testFail3 Start
+[INFO ]12:27:26, count=0
+[INFO ]12:27:27, testFail3 Failure
+[INFO ]12:27:27, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 65 times
+[INFO ]12:27:27, Fail3Test setUp
+[INFO ]12:27:27, testFail3 Start
+[INFO ]12:27:27, count=0
+[INFO ]12:27:28, testFail3 Failure
+[INFO ]12:27:28, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 66 times
+[INFO ]12:27:28, Fail3Test setUp
+[INFO ]12:27:28, testFail3 Start
+[INFO ]12:27:28, count=0
+[INFO ]12:27:29, testFail3 Failure
+[INFO ]12:27:29, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 67 times
+[INFO ]12:27:29, Fail3Test setUp
+[INFO ]12:27:29, testFail3 Start
+[INFO ]12:27:29, count=0
+[INFO ]12:27:30, testFail3 Failure
+[INFO ]12:27:30, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 68 times
+[INFO ]12:27:30, Fail3Test setUp
+[INFO ]12:27:30, testFail3 Start
+[INFO ]12:27:30, count=0
+[INFO ]12:27:31, testFail3 Failure
+[INFO ]12:27:31, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 69 times
+[INFO ]12:27:31, Fail3Test setUp
+[INFO ]12:27:31, testFail3 Start
+[INFO ]12:27:31, count=0
+[INFO ]12:27:32, testFail3 Failure
+[INFO ]12:27:32, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 70 times
+[INFO ]12:27:32, Fail3Test setUp
+[INFO ]12:27:32, testFail3 Start
+[INFO ]12:27:32, count=0
+[INFO ]12:27:33, testFail3 Failure
+[INFO ]12:27:33, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 71 times
+[INFO ]12:27:33, Fail3Test setUp
+[INFO ]12:27:33, testFail3 Start
+[INFO ]12:27:33, count=0
+[INFO ]12:27:34, testFail3 Failure
+[INFO ]12:27:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 72 times
+[INFO ]12:27:34, Fail3Test setUp
+[INFO ]12:27:34, testFail3 Start
+[INFO ]12:27:34, count=0
+[INFO ]12:27:35, testFail3 Failure
+[INFO ]12:27:35, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 73 times
+[INFO ]12:27:35, Fail3Test setUp
+[INFO ]12:27:35, testFail3 Start
+[INFO ]12:27:35, count=0
+[INFO ]12:27:36, testFail3 Failure
+[INFO ]12:27:36, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 74 times
+[INFO ]12:27:36, Fail3Test setUp
+[INFO ]12:27:36, testFail3 Start
+[INFO ]12:27:36, count=0
+[INFO ]12:27:37, testFail3 Failure
+[INFO ]12:27:37, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 75 times
+[INFO ]12:27:37, Fail3Test setUp
+[INFO ]12:27:37, testFail3 Start
+[INFO ]12:27:37, count=0
+[INFO ]12:27:38, testFail3 Failure
+[INFO ]12:27:38, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 76 times
+[INFO ]12:27:38, Fail3Test setUp
+[INFO ]12:27:38, testFail3 Start
+[INFO ]12:27:38, count=0
+[INFO ]12:27:39, testFail3 Failure
+[INFO ]12:27:39, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 77 times
+[INFO ]12:27:39, Fail3Test setUp
+[INFO ]12:27:39, testFail3 Start
+[INFO ]12:27:39, count=0
+[INFO ]12:27:40, testFail3 Failure
+[INFO ]12:27:40, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 78 times
+[INFO ]12:27:40, Fail3Test setUp
+[INFO ]12:27:40, testFail3 Start
+[INFO ]12:27:40, count=0
+[INFO ]12:27:41, testFail3 Failure
+[INFO ]12:27:41, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 79 times
+[INFO ]12:27:41, Fail3Test setUp
+[INFO ]12:27:41, testFail3 Start
+[INFO ]12:27:41, count=0
+[INFO ]12:27:42, testFail3 Failure
+[INFO ]12:27:42, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 80 times
+[INFO ]12:27:42, Fail3Test setUp
+[INFO ]12:27:42, testFail3 Start
+[INFO ]12:27:42, count=0
+[INFO ]12:27:43, testFail3 Failure
+[INFO ]12:27:43, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 81 times
+[INFO ]12:27:43, Fail3Test setUp
+[INFO ]12:27:43, testFail3 Start
+[INFO ]12:27:43, count=0
+[INFO ]12:27:44, testFail3 Failure
+[INFO ]12:27:44, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 82 times
+[INFO ]12:27:44, Fail3Test setUp
+[INFO ]12:27:44, testFail3 Start
+[INFO ]12:27:44, count=0
+[INFO ]12:27:45, testFail3 Failure
+[INFO ]12:27:45, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 83 times
+[INFO ]12:27:45, Fail3Test setUp
+[INFO ]12:27:45, testFail3 Start
+[INFO ]12:27:45, count=0
+[INFO ]12:27:46, testFail3 Failure
+[INFO ]12:27:46, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 84 times
+[INFO ]12:27:46, Fail3Test setUp
+[INFO ]12:27:46, testFail3 Start
+[INFO ]12:27:46, count=0
+[INFO ]12:27:47, testFail3 Failure
+[INFO ]12:27:47, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 85 times
+[INFO ]12:27:47, Fail3Test setUp
+[INFO ]12:27:47, testFail3 Start
+[INFO ]12:27:47, count=0
+[INFO ]12:27:48, testFail3 Failure
+[INFO ]12:27:48, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 86 times
+[INFO ]12:27:48, Fail3Test setUp
+[INFO ]12:27:48, testFail3 Start
+[INFO ]12:27:48, count=0
+[INFO ]12:27:49, testFail3 Failure
+[INFO ]12:27:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 87 times
+[INFO ]12:27:49, Fail3Test setUp
+[INFO ]12:27:49, testFail3 Start
+[INFO ]12:27:49, count=0
+[INFO ]12:27:50, testFail3 Failure
+[INFO ]12:27:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 88 times
+[INFO ]12:27:50, Fail3Test setUp
+[INFO ]12:27:50, testFail3 Start
+[INFO ]12:27:50, count=0
+[INFO ]12:27:51, testFail3 Failure
+[INFO ]12:27:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 89 times
+[INFO ]12:27:51, Fail3Test setUp
+[INFO ]12:27:51, testFail3 Start
+[INFO ]12:27:51, count=0
+[INFO ]12:27:52, testFail3 Failure
+[INFO ]12:27:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 90 times
+[INFO ]12:27:52, Fail3Test setUp
+[INFO ]12:27:52, testFail3 Start
+[INFO ]12:27:52, count=0
+[INFO ]12:27:53, testFail3 Failure
+[INFO ]12:27:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 91 times
+[INFO ]12:27:53, Fail3Test setUp
+[INFO ]12:27:53, testFail3 Start
+[INFO ]12:27:53, count=0
+[INFO ]12:27:54, testFail3 Failure
+[INFO ]12:27:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 92 times
+[INFO ]12:27:54, Fail3Test setUp
+[INFO ]12:27:54, testFail3 Start
+[INFO ]12:27:54, count=0
+[INFO ]12:27:55, testFail3 Failure
+[INFO ]12:27:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 93 times
+[INFO ]12:27:55, Fail3Test setUp
+[INFO ]12:27:55, testFail3 Start
+[INFO ]12:27:55, count=0
+[INFO ]12:27:56, testFail3 Failure
+[INFO ]12:27:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 94 times
+[INFO ]12:27:56, Fail3Test setUp
+[INFO ]12:27:56, testFail3 Start
+[INFO ]12:27:56, count=0
+[INFO ]12:27:57, testFail3 Failure
+[INFO ]12:27:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 95 times
+[INFO ]12:27:57, Fail3Test setUp
+[INFO ]12:27:57, testFail3 Start
+[INFO ]12:27:57, count=0
+[INFO ]12:27:58, testFail3 Failure
+[INFO ]12:27:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 96 times
+[INFO ]12:27:58, Fail3Test setUp
+[INFO ]12:27:58, testFail3 Start
+[INFO ]12:27:58, count=0
+[INFO ]12:27:59, testFail3 Failure
+[INFO ]12:27:59, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 97 times
+[INFO ]12:27:59, Fail3Test setUp
+[INFO ]12:27:59, testFail3 Start
+[INFO ]12:27:59, count=0
+[INFO ]12:28:00, testFail3 Failure
+[INFO ]12:28:00, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 98 times
+[INFO ]12:28:00, Fail3Test setUp
+[INFO ]12:28:00, testFail3 Start
+[INFO ]12:28:00, count=0
+[INFO ]12:28:01, testFail3 Failure
+[INFO ]12:28:01, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 99 times
+[INFO ]12:28:01, Fail3Test setUp
+[INFO ]12:28:01, testFail3 Start
+[INFO ]12:28:01, count=0
+[INFO ]12:28:02, testFail3 Failure
+[INFO ]12:28:02, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 100 times
+[INFO ]12:28:02, Fail3Test setUp
+[INFO ]12:28:02, testFail3 Start
+[INFO ]12:28:02, count=0
+[INFO ]12:28:03, testFail3 Failure
+[INFO ]12:28:03, PassedTests = testSuccess
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, failedTest = testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:28:03, Remove repeat Fail Test: testFail3
+[INFO ]12:30:48, screenShotpath=
+[INFO ]12:30:48, screenShotpath=
+[INFO ]12:30:48, RetryCount=100
+[INFO ]12:30:48, testSuccess setUp
+[INFO ]12:30:48, testSuccess Start
+[INFO ]12:30:48, testSuccess
+[INFO ]12:30:48, testSuccess Success
+[INFO ]12:30:48, Fail3Test setUp
+[INFO ]12:30:48, testFail3 Start
+[INFO ]12:30:48, count=0
+[INFO ]12:30:49, testFail3 Failure
+[ERROR]12:30:49, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]12:30:49, Fail3Test setUp
+[INFO ]12:30:49, testFail3 Start
+[INFO ]12:30:49, count=0
+[INFO ]12:30:50, testFail3 Failure
+[ERROR]12:30:50, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]12:30:50, Fail3Test setUp
+[INFO ]12:30:50, testFail3 Start
+[INFO ]12:30:50, count=0
+[INFO ]12:30:51, testFail3 Failure
+[ERROR]12:30:51, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]12:30:51, Fail3Test setUp
+[INFO ]12:30:51, testFail3 Start
+[INFO ]12:30:51, count=0
+[INFO ]12:30:52, testFail3 Failure
+[ERROR]12:30:52, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]12:30:52, Fail3Test setUp
+[INFO ]12:30:52, testFail3 Start
+[INFO ]12:30:52, count=0
+[INFO ]12:30:53, testFail3 Failure
+[ERROR]12:30:53, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 5 times
+[INFO ]12:30:53, Fail3Test setUp
+[INFO ]12:30:53, testFail3 Start
+[INFO ]12:30:53, count=0
+[INFO ]12:30:54, testFail3 Failure
+[ERROR]12:30:54, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 6 times
+[INFO ]12:30:54, Fail3Test setUp
+[INFO ]12:30:54, testFail3 Start
+[INFO ]12:30:54, count=0
+[INFO ]12:30:55, testFail3 Failure
+[ERROR]12:30:55, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 7 times
+[INFO ]12:30:55, Fail3Test setUp
+[INFO ]12:30:55, testFail3 Start
+[INFO ]12:30:55, count=0
+[INFO ]12:30:56, testFail3 Failure
+[ERROR]12:30:56, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 8 times
+[INFO ]12:30:56, Fail3Test setUp
+[INFO ]12:30:56, testFail3 Start
+[INFO ]12:30:56, count=0
+[INFO ]12:30:57, testFail3 Failure
+[ERROR]12:30:57, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 9 times
+[INFO ]12:30:57, Fail3Test setUp
+[INFO ]12:30:57, testFail3 Start
+[INFO ]12:30:57, count=0
+[INFO ]12:30:58, testFail3 Failure
+[ERROR]12:30:58, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 10 times
+[INFO ]12:30:58, Fail3Test setUp
+[INFO ]12:30:58, testFail3 Start
+[INFO ]12:30:58, count=0
+[INFO ]12:30:59, testFail3 Failure
+[ERROR]12:30:59, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:30:59, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 11 times
+[INFO ]12:30:59, Fail3Test setUp
+[INFO ]12:30:59, testFail3 Start
+[INFO ]12:30:59, count=0
+[INFO ]12:31:00, testFail3 Failure
+[ERROR]12:31:00, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:00, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 12 times
+[INFO ]12:31:00, Fail3Test setUp
+[INFO ]12:31:00, testFail3 Start
+[INFO ]12:31:00, count=0
+[INFO ]12:31:01, testFail3 Failure
+[ERROR]12:31:01, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:01, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 13 times
+[INFO ]12:31:01, Fail3Test setUp
+[INFO ]12:31:01, testFail3 Start
+[INFO ]12:31:01, count=0
+[INFO ]12:31:02, testFail3 Failure
+[ERROR]12:31:02, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:02, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 14 times
+[INFO ]12:31:02, Fail3Test setUp
+[INFO ]12:31:02, testFail3 Start
+[INFO ]12:31:02, count=0
+[INFO ]12:31:03, testFail3 Failure
+[ERROR]12:31:03, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:03, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 15 times
+[INFO ]12:31:03, Fail3Test setUp
+[INFO ]12:31:03, testFail3 Start
+[INFO ]12:31:03, count=0
+[INFO ]12:31:04, testFail3 Failure
+[ERROR]12:31:04, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:04, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 16 times
+[INFO ]12:31:04, Fail3Test setUp
+[INFO ]12:31:04, testFail3 Start
+[INFO ]12:31:04, count=0
+[INFO ]12:31:05, testFail3 Failure
+[ERROR]12:31:05, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:05, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 17 times
+[INFO ]12:31:05, Fail3Test setUp
+[INFO ]12:31:05, testFail3 Start
+[INFO ]12:31:05, count=0
+[INFO ]12:31:06, testFail3 Failure
+[ERROR]12:31:06, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:06, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 18 times
+[INFO ]12:31:06, Fail3Test setUp
+[INFO ]12:31:06, testFail3 Start
+[INFO ]12:31:06, count=0
+[INFO ]12:31:07, testFail3 Failure
+[ERROR]12:31:07, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:07, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 19 times
+[INFO ]12:31:07, Fail3Test setUp
+[INFO ]12:31:07, testFail3 Start
+[INFO ]12:31:07, count=0
+[INFO ]12:31:08, testFail3 Failure
+[ERROR]12:31:08, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:08, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 20 times
+[INFO ]12:31:08, Fail3Test setUp
+[INFO ]12:31:08, testFail3 Start
+[INFO ]12:31:08, count=0
+[INFO ]12:31:09, testFail3 Failure
+[ERROR]12:31:09, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:09, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 21 times
+[INFO ]12:31:09, Fail3Test setUp
+[INFO ]12:31:09, testFail3 Start
+[INFO ]12:31:09, count=0
+[INFO ]12:31:10, testFail3 Failure
+[ERROR]12:31:10, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:10, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 22 times
+[INFO ]12:31:10, Fail3Test setUp
+[INFO ]12:31:10, testFail3 Start
+[INFO ]12:31:10, count=0
+[INFO ]12:31:11, testFail3 Failure
+[ERROR]12:31:11, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:11, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 23 times
+[INFO ]12:31:11, Fail3Test setUp
+[INFO ]12:31:11, testFail3 Start
+[INFO ]12:31:11, count=0
+[INFO ]12:31:12, testFail3 Failure
+[ERROR]12:31:12, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:12, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 24 times
+[INFO ]12:31:12, Fail3Test setUp
+[INFO ]12:31:12, testFail3 Start
+[INFO ]12:31:12, count=0
+[INFO ]12:31:13, testFail3 Failure
+[ERROR]12:31:13, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:13, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 25 times
+[INFO ]12:31:13, Fail3Test setUp
+[INFO ]12:31:13, testFail3 Start
+[INFO ]12:31:13, count=0
+[INFO ]12:31:14, testFail3 Failure
+[ERROR]12:31:14, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:14, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 26 times
+[INFO ]12:31:14, Fail3Test setUp
+[INFO ]12:31:14, testFail3 Start
+[INFO ]12:31:14, count=0
+[INFO ]12:31:15, testFail3 Failure
+[ERROR]12:31:15, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:15, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 27 times
+[INFO ]12:31:15, Fail3Test setUp
+[INFO ]12:31:15, testFail3 Start
+[INFO ]12:31:15, count=0
+[INFO ]12:31:16, testFail3 Failure
+[ERROR]12:31:16, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:16, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 28 times
+[INFO ]12:31:16, Fail3Test setUp
+[INFO ]12:31:16, testFail3 Start
+[INFO ]12:31:16, count=0
+[INFO ]12:31:17, testFail3 Failure
+[ERROR]12:31:17, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:17, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 29 times
+[INFO ]12:31:17, Fail3Test setUp
+[INFO ]12:31:17, testFail3 Start
+[INFO ]12:31:17, count=0
+[INFO ]12:31:18, testFail3 Failure
+[ERROR]12:31:18, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:18, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 30 times
+[INFO ]12:31:18, Fail3Test setUp
+[INFO ]12:31:18, testFail3 Start
+[INFO ]12:31:18, count=0
+[INFO ]12:31:19, testFail3 Failure
+[ERROR]12:31:19, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:19, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 31 times
+[INFO ]12:31:19, Fail3Test setUp
+[INFO ]12:31:19, testFail3 Start
+[INFO ]12:31:19, count=0
+[INFO ]12:31:20, testFail3 Failure
+[ERROR]12:31:20, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:20, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 32 times
+[INFO ]12:31:20, Fail3Test setUp
+[INFO ]12:31:20, testFail3 Start
+[INFO ]12:31:20, count=0
+[INFO ]12:31:21, testFail3 Failure
+[ERROR]12:31:21, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:21, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 33 times
+[INFO ]12:31:21, Fail3Test setUp
+[INFO ]12:31:21, testFail3 Start
+[INFO ]12:31:21, count=0
+[INFO ]12:31:22, testFail3 Failure
+[ERROR]12:31:22, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:22, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 34 times
+[INFO ]12:31:22, Fail3Test setUp
+[INFO ]12:31:22, testFail3 Start
+[INFO ]12:31:22, count=0
+[INFO ]12:31:23, testFail3 Failure
+[ERROR]12:31:23, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 35 times
+[INFO ]12:31:23, Fail3Test setUp
+[INFO ]12:31:23, testFail3 Start
+[INFO ]12:31:23, count=0
+[INFO ]12:31:24, testFail3 Failure
+[ERROR]12:31:24, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 36 times
+[INFO ]12:31:24, Fail3Test setUp
+[INFO ]12:31:24, testFail3 Start
+[INFO ]12:31:24, count=0
+[INFO ]12:31:25, testFail3 Failure
+[ERROR]12:31:25, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:25, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 37 times
+[INFO ]12:31:25, Fail3Test setUp
+[INFO ]12:31:25, testFail3 Start
+[INFO ]12:31:25, count=0
+[INFO ]12:31:26, testFail3 Failure
+[ERROR]12:31:26, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:26, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 38 times
+[INFO ]12:31:26, Fail3Test setUp
+[INFO ]12:31:26, testFail3 Start
+[INFO ]12:31:26, count=0
+[INFO ]12:31:27, testFail3 Failure
+[ERROR]12:31:27, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:27, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 39 times
+[INFO ]12:31:27, Fail3Test setUp
+[INFO ]12:31:27, testFail3 Start
+[INFO ]12:31:27, count=0
+[INFO ]12:31:28, testFail3 Failure
+[ERROR]12:31:28, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:28, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 40 times
+[INFO ]12:31:28, Fail3Test setUp
+[INFO ]12:31:28, testFail3 Start
+[INFO ]12:31:28, count=0
+[INFO ]12:31:29, testFail3 Failure
+[ERROR]12:31:29, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:29, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 41 times
+[INFO ]12:31:29, Fail3Test setUp
+[INFO ]12:31:29, testFail3 Start
+[INFO ]12:31:29, count=0
+[INFO ]12:31:30, testFail3 Failure
+[ERROR]12:31:30, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:30, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 42 times
+[INFO ]12:31:30, Fail3Test setUp
+[INFO ]12:31:30, testFail3 Start
+[INFO ]12:31:30, count=0
+[INFO ]12:31:31, testFail3 Failure
+[ERROR]12:31:31, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:31, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 43 times
+[INFO ]12:31:31, Fail3Test setUp
+[INFO ]12:31:31, testFail3 Start
+[INFO ]12:31:31, count=0
+[INFO ]12:31:32, testFail3 Failure
+[ERROR]12:31:32, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:32, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 44 times
+[INFO ]12:31:32, Fail3Test setUp
+[INFO ]12:31:32, testFail3 Start
+[INFO ]12:31:32, count=0
+[INFO ]12:31:33, testFail3 Failure
+[ERROR]12:31:33, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:33, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 45 times
+[INFO ]12:31:33, Fail3Test setUp
+[INFO ]12:31:33, testFail3 Start
+[INFO ]12:31:33, count=0
+[INFO ]12:31:34, testFail3 Failure
+[ERROR]12:31:34, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 46 times
+[INFO ]12:31:34, Fail3Test setUp
+[INFO ]12:31:34, testFail3 Start
+[INFO ]12:31:34, count=0
+[INFO ]12:31:35, testFail3 Failure
+[ERROR]12:31:35, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:35, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 47 times
+[INFO ]12:31:35, Fail3Test setUp
+[INFO ]12:31:35, testFail3 Start
+[INFO ]12:31:35, count=0
+[INFO ]12:31:36, testFail3 Failure
+[ERROR]12:31:36, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:36, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 48 times
+[INFO ]12:31:36, Fail3Test setUp
+[INFO ]12:31:36, testFail3 Start
+[INFO ]12:31:36, count=0
+[INFO ]12:31:37, testFail3 Failure
+[ERROR]12:31:37, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:37, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 49 times
+[INFO ]12:31:37, Fail3Test setUp
+[INFO ]12:31:37, testFail3 Start
+[INFO ]12:31:37, count=0
+[INFO ]12:31:38, testFail3 Failure
+[ERROR]12:31:38, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:38, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 50 times
+[INFO ]12:31:38, Fail3Test setUp
+[INFO ]12:31:38, testFail3 Start
+[INFO ]12:31:38, count=0
+[INFO ]12:31:39, testFail3 Failure
+[ERROR]12:31:39, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:39, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 51 times
+[INFO ]12:31:39, Fail3Test setUp
+[INFO ]12:31:39, testFail3 Start
+[INFO ]12:31:39, count=0
+[INFO ]12:31:40, testFail3 Failure
+[ERROR]12:31:40, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:40, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 52 times
+[INFO ]12:31:40, Fail3Test setUp
+[INFO ]12:31:40, testFail3 Start
+[INFO ]12:31:40, count=0
+[INFO ]12:31:41, testFail3 Failure
+[ERROR]12:31:41, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:41, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 53 times
+[INFO ]12:31:41, Fail3Test setUp
+[INFO ]12:31:41, testFail3 Start
+[INFO ]12:31:41, count=0
+[INFO ]12:31:42, testFail3 Failure
+[ERROR]12:31:42, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:42, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 54 times
+[INFO ]12:31:42, Fail3Test setUp
+[INFO ]12:31:42, testFail3 Start
+[INFO ]12:31:42, count=0
+[INFO ]12:31:43, testFail3 Failure
+[ERROR]12:31:43, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:43, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 55 times
+[INFO ]12:31:43, Fail3Test setUp
+[INFO ]12:31:43, testFail3 Start
+[INFO ]12:31:43, count=0
+[INFO ]12:31:44, testFail3 Failure
+[ERROR]12:31:44, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:44, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 56 times
+[INFO ]12:31:44, Fail3Test setUp
+[INFO ]12:31:44, testFail3 Start
+[INFO ]12:31:44, count=0
+[INFO ]12:31:45, testFail3 Failure
+[ERROR]12:31:45, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:45, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 57 times
+[INFO ]12:31:45, Fail3Test setUp
+[INFO ]12:31:45, testFail3 Start
+[INFO ]12:31:45, count=0
+[INFO ]12:31:46, testFail3 Failure
+[ERROR]12:31:46, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:46, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 58 times
+[INFO ]12:31:46, Fail3Test setUp
+[INFO ]12:31:46, testFail3 Start
+[INFO ]12:31:46, count=0
+[INFO ]12:31:47, testFail3 Failure
+[ERROR]12:31:47, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:47, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 59 times
+[INFO ]12:31:47, Fail3Test setUp
+[INFO ]12:31:47, testFail3 Start
+[INFO ]12:31:47, count=0
+[INFO ]12:31:48, testFail3 Failure
+[ERROR]12:31:48, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:48, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 60 times
+[INFO ]12:31:48, Fail3Test setUp
+[INFO ]12:31:48, testFail3 Start
+[INFO ]12:31:48, count=0
+[INFO ]12:31:49, testFail3 Failure
+[ERROR]12:31:49, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 61 times
+[INFO ]12:31:49, Fail3Test setUp
+[INFO ]12:31:49, testFail3 Start
+[INFO ]12:31:49, count=0
+[INFO ]12:31:50, testFail3 Failure
+[ERROR]12:31:50, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 62 times
+[INFO ]12:31:50, Fail3Test setUp
+[INFO ]12:31:50, testFail3 Start
+[INFO ]12:31:50, count=0
+[INFO ]12:31:51, testFail3 Failure
+[ERROR]12:31:51, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 63 times
+[INFO ]12:31:51, Fail3Test setUp
+[INFO ]12:31:51, testFail3 Start
+[INFO ]12:31:51, count=0
+[INFO ]12:31:52, testFail3 Failure
+[ERROR]12:31:52, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 64 times
+[INFO ]12:31:52, Fail3Test setUp
+[INFO ]12:31:52, testFail3 Start
+[INFO ]12:31:52, count=0
+[INFO ]12:31:53, testFail3 Failure
+[ERROR]12:31:53, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 65 times
+[INFO ]12:31:53, Fail3Test setUp
+[INFO ]12:31:53, testFail3 Start
+[INFO ]12:31:53, count=0
+[INFO ]12:31:54, testFail3 Failure
+[ERROR]12:31:54, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 66 times
+[INFO ]12:31:54, Fail3Test setUp
+[INFO ]12:31:54, testFail3 Start
+[INFO ]12:31:54, count=0
+[INFO ]12:31:55, testFail3 Failure
+[ERROR]12:31:55, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 67 times
+[INFO ]12:31:55, Fail3Test setUp
+[INFO ]12:31:55, testFail3 Start
+[INFO ]12:31:55, count=0
+[INFO ]12:31:56, testFail3 Failure
+[ERROR]12:31:56, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 68 times
+[INFO ]12:31:56, Fail3Test setUp
+[INFO ]12:31:56, testFail3 Start
+[INFO ]12:31:56, count=0
+[INFO ]12:31:57, testFail3 Failure
+[ERROR]12:31:57, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 69 times
+[INFO ]12:31:57, Fail3Test setUp
+[INFO ]12:31:57, testFail3 Start
+[INFO ]12:31:57, count=0
+[INFO ]12:31:58, testFail3 Failure
+[ERROR]12:31:58, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 70 times
+[INFO ]12:31:58, Fail3Test setUp
+[INFO ]12:31:58, testFail3 Start
+[INFO ]12:31:58, count=0
+[INFO ]12:31:59, testFail3 Failure
+[ERROR]12:31:59, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:31:59, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 71 times
+[INFO ]12:31:59, Fail3Test setUp
+[INFO ]12:31:59, testFail3 Start
+[INFO ]12:31:59, count=0
+[INFO ]12:32:00, testFail3 Failure
+[ERROR]12:32:00, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:00, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 72 times
+[INFO ]12:32:00, Fail3Test setUp
+[INFO ]12:32:00, testFail3 Start
+[INFO ]12:32:00, count=0
+[INFO ]12:32:01, testFail3 Failure
+[ERROR]12:32:01, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:01, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 73 times
+[INFO ]12:32:01, Fail3Test setUp
+[INFO ]12:32:01, testFail3 Start
+[INFO ]12:32:01, count=0
+[INFO ]12:32:02, testFail3 Failure
+[ERROR]12:32:02, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:02, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 74 times
+[INFO ]12:32:02, Fail3Test setUp
+[INFO ]12:32:02, testFail3 Start
+[INFO ]12:32:02, count=0
+[INFO ]12:32:03, testFail3 Failure
+[ERROR]12:32:03, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:03, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 75 times
+[INFO ]12:32:03, Fail3Test setUp
+[INFO ]12:32:03, testFail3 Start
+[INFO ]12:32:03, count=0
+[INFO ]12:32:04, testFail3 Failure
+[ERROR]12:32:04, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:04, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 76 times
+[INFO ]12:32:04, Fail3Test setUp
+[INFO ]12:32:04, testFail3 Start
+[INFO ]12:32:04, count=0
+[INFO ]12:32:05, testFail3 Failure
+[ERROR]12:32:05, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:05, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 77 times
+[INFO ]12:32:05, Fail3Test setUp
+[INFO ]12:32:05, testFail3 Start
+[INFO ]12:32:05, count=0
+[INFO ]12:32:06, testFail3 Failure
+[ERROR]12:32:06, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:06, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 78 times
+[INFO ]12:32:06, Fail3Test setUp
+[INFO ]12:32:06, testFail3 Start
+[INFO ]12:32:06, count=0
+[INFO ]12:32:07, testFail3 Failure
+[ERROR]12:32:07, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:07, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 79 times
+[INFO ]12:32:07, Fail3Test setUp
+[INFO ]12:32:07, testFail3 Start
+[INFO ]12:32:07, count=0
+[INFO ]12:32:08, testFail3 Failure
+[ERROR]12:32:08, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:08, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 80 times
+[INFO ]12:32:08, Fail3Test setUp
+[INFO ]12:32:08, testFail3 Start
+[INFO ]12:32:08, count=0
+[INFO ]12:32:09, testFail3 Failure
+[ERROR]12:32:09, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:09, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 81 times
+[INFO ]12:32:09, Fail3Test setUp
+[INFO ]12:32:09, testFail3 Start
+[INFO ]12:32:09, count=0
+[INFO ]12:32:10, testFail3 Failure
+[ERROR]12:32:10, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:10, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 82 times
+[INFO ]12:32:10, Fail3Test setUp
+[INFO ]12:32:10, testFail3 Start
+[INFO ]12:32:10, count=0
+[INFO ]12:32:11, testFail3 Failure
+[ERROR]12:32:11, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:11, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 83 times
+[INFO ]12:32:11, Fail3Test setUp
+[INFO ]12:32:11, testFail3 Start
+[INFO ]12:32:11, count=0
+[INFO ]12:32:12, testFail3 Failure
+[ERROR]12:32:12, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:12, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 84 times
+[INFO ]12:32:12, Fail3Test setUp
+[INFO ]12:32:12, testFail3 Start
+[INFO ]12:32:12, count=0
+[INFO ]12:32:13, testFail3 Failure
+[ERROR]12:32:13, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:13, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 85 times
+[INFO ]12:32:13, Fail3Test setUp
+[INFO ]12:32:13, testFail3 Start
+[INFO ]12:32:13, count=0
+[INFO ]12:32:14, testFail3 Failure
+[ERROR]12:32:14, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:14, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 86 times
+[INFO ]12:32:14, Fail3Test setUp
+[INFO ]12:32:14, testFail3 Start
+[INFO ]12:32:14, count=0
+[INFO ]12:32:15, testFail3 Failure
+[ERROR]12:32:15, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:15, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 87 times
+[INFO ]12:32:15, Fail3Test setUp
+[INFO ]12:32:15, testFail3 Start
+[INFO ]12:32:15, count=0
+[INFO ]12:32:16, testFail3 Failure
+[ERROR]12:32:16, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:16, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 88 times
+[INFO ]12:32:16, Fail3Test setUp
+[INFO ]12:32:16, testFail3 Start
+[INFO ]12:32:16, count=0
+[INFO ]12:32:17, testFail3 Failure
+[ERROR]12:32:17, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:17, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 89 times
+[INFO ]12:32:17, Fail3Test setUp
+[INFO ]12:32:17, testFail3 Start
+[INFO ]12:32:17, count=0
+[INFO ]12:32:18, testFail3 Failure
+[ERROR]12:32:18, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:18, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 90 times
+[INFO ]12:32:18, Fail3Test setUp
+[INFO ]12:32:18, testFail3 Start
+[INFO ]12:32:18, count=0
+[INFO ]12:32:19, testFail3 Failure
+[ERROR]12:32:19, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:19, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 91 times
+[INFO ]12:32:19, Fail3Test setUp
+[INFO ]12:32:19, testFail3 Start
+[INFO ]12:32:19, count=0
+[INFO ]12:32:20, testFail3 Failure
+[ERROR]12:32:20, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:20, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 92 times
+[INFO ]12:32:20, Fail3Test setUp
+[INFO ]12:32:20, testFail3 Start
+[INFO ]12:32:20, count=0
+[INFO ]12:32:21, testFail3 Failure
+[ERROR]12:32:21, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:21, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 93 times
+[INFO ]12:32:21, Fail3Test setUp
+[INFO ]12:32:21, testFail3 Start
+[INFO ]12:32:21, count=0
+[INFO ]12:32:22, testFail3 Failure
+[ERROR]12:32:22, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:22, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 94 times
+[INFO ]12:32:22, Fail3Test setUp
+[INFO ]12:32:22, testFail3 Start
+[INFO ]12:32:22, count=0
+[INFO ]12:32:23, testFail3 Failure
+[ERROR]12:32:23, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 95 times
+[INFO ]12:32:23, Fail3Test setUp
+[INFO ]12:32:23, testFail3 Start
+[INFO ]12:32:23, count=0
+[INFO ]12:32:24, testFail3 Failure
+[ERROR]12:32:24, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 96 times
+[INFO ]12:32:24, Fail3Test setUp
+[INFO ]12:32:24, testFail3 Start
+[INFO ]12:32:24, count=0
+[INFO ]12:32:25, testFail3 Failure
+[ERROR]12:32:25, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:25, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 97 times
+[INFO ]12:32:25, Fail3Test setUp
+[INFO ]12:32:25, testFail3 Start
+[INFO ]12:32:25, count=0
+[INFO ]12:32:26, testFail3 Failure
+[ERROR]12:32:26, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:26, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 98 times
+[INFO ]12:32:26, Fail3Test setUp
+[INFO ]12:32:26, testFail3 Start
+[INFO ]12:32:26, count=0
+[INFO ]12:32:27, testFail3 Failure
+[ERROR]12:32:27, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:27, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 99 times
+[INFO ]12:32:27, Fail3Test setUp
+[INFO ]12:32:27, testFail3 Start
+[INFO ]12:32:27, count=0
+[INFO ]12:32:28, testFail3 Failure
+[ERROR]12:32:28, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:28, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 100 times
+[INFO ]12:32:28, Fail3Test setUp
+[INFO ]12:32:28, testFail3 Start
+[INFO ]12:32:28, count=0
+[INFO ]12:32:29, testFail3 Failure
+[ERROR]12:32:29, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:29, PassedTests = testSuccess
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, failedTest = testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:29, Remove repeat Fail Test: testFail3
+[INFO ]12:32:44, screenShotpath=
+[INFO ]12:32:44, screenShotpath=
+[INFO ]12:32:44, RetryCount=100
+[INFO ]12:32:44, testSuccess setUp
+[INFO ]12:32:44, testSuccess Start
+[INFO ]12:32:44, testSuccess
+[INFO ]12:32:44, testSuccess Success
+[INFO ]12:32:44, Fail3Test setUp
+[INFO ]12:32:44, testFail3 Start
+[INFO ]12:32:44, count=0
+[INFO ]12:32:45, testFail3 Failure
+[ERROR]12:32:45, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:45, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]12:32:45, Fail3Test setUp
+[INFO ]12:32:45, testFail3 Start
+[INFO ]12:32:45, count=0
+[INFO ]12:32:46, testFail3 Failure
+[ERROR]12:32:46, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:46, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]12:32:46, Fail3Test setUp
+[INFO ]12:32:46, testFail3 Start
+[INFO ]12:32:46, count=0
+[INFO ]12:32:47, testFail3 Failure
+[ERROR]12:32:47, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:47, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]12:32:47, Fail3Test setUp
+[INFO ]12:32:47, testFail3 Start
+[INFO ]12:32:47, count=0
+[INFO ]12:32:48, testFail3 Failure
+[ERROR]12:32:48, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:48, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]12:32:48, Fail3Test setUp
+[INFO ]12:32:48, testFail3 Start
+[INFO ]12:32:48, count=0
+[INFO ]12:32:49, testFail3 Failure
+[ERROR]12:32:49, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 5 times
+[INFO ]12:32:49, Fail3Test setUp
+[INFO ]12:32:49, testFail3 Start
+[INFO ]12:32:49, count=0
+[INFO ]12:32:50, testFail3 Failure
+[ERROR]12:32:50, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 6 times
+[INFO ]12:32:50, Fail3Test setUp
+[INFO ]12:32:50, testFail3 Start
+[INFO ]12:32:50, count=0
+[INFO ]12:32:51, testFail3 Failure
+[ERROR]12:32:51, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 7 times
+[INFO ]12:32:51, Fail3Test setUp
+[INFO ]12:32:51, testFail3 Start
+[INFO ]12:32:51, count=0
+[INFO ]12:32:52, testFail3 Failure
+[ERROR]12:32:52, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 8 times
+[INFO ]12:32:52, Fail3Test setUp
+[INFO ]12:32:52, testFail3 Start
+[INFO ]12:32:52, count=0
+[INFO ]12:32:53, testFail3 Failure
+[ERROR]12:32:53, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 9 times
+[INFO ]12:32:53, Fail3Test setUp
+[INFO ]12:32:53, testFail3 Start
+[INFO ]12:32:53, count=0
+[INFO ]12:32:54, testFail3 Failure
+[ERROR]12:32:54, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 10 times
+[INFO ]12:32:54, Fail3Test setUp
+[INFO ]12:32:54, testFail3 Start
+[INFO ]12:32:54, count=0
+[INFO ]12:32:55, testFail3 Failure
+[ERROR]12:32:55, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 11 times
+[INFO ]12:32:55, Fail3Test setUp
+[INFO ]12:32:55, testFail3 Start
+[INFO ]12:32:55, count=0
+[INFO ]12:32:56, testFail3 Failure
+[ERROR]12:32:56, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 12 times
+[INFO ]12:32:56, Fail3Test setUp
+[INFO ]12:32:56, testFail3 Start
+[INFO ]12:32:56, count=0
+[INFO ]12:32:57, testFail3 Failure
+[ERROR]12:32:57, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 13 times
+[INFO ]12:32:57, Fail3Test setUp
+[INFO ]12:32:57, testFail3 Start
+[INFO ]12:32:57, count=0
+[INFO ]12:32:58, testFail3 Failure
+[ERROR]12:32:58, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 14 times
+[INFO ]12:32:58, Fail3Test setUp
+[INFO ]12:32:58, testFail3 Start
+[INFO ]12:32:58, count=0
+[INFO ]12:32:59, testFail3 Failure
+[ERROR]12:32:59, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:32:59, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 15 times
+[INFO ]12:32:59, Fail3Test setUp
+[INFO ]12:32:59, testFail3 Start
+[INFO ]12:32:59, count=0
+[INFO ]12:33:00, testFail3 Failure
+[ERROR]12:33:00, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:00, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 16 times
+[INFO ]12:33:00, Fail3Test setUp
+[INFO ]12:33:00, testFail3 Start
+[INFO ]12:33:00, count=0
+[INFO ]12:33:01, testFail3 Failure
+[ERROR]12:33:01, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:01, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 17 times
+[INFO ]12:33:01, Fail3Test setUp
+[INFO ]12:33:01, testFail3 Start
+[INFO ]12:33:01, count=0
+[INFO ]12:33:02, testFail3 Failure
+[ERROR]12:33:02, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:02, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 18 times
+[INFO ]12:33:02, Fail3Test setUp
+[INFO ]12:33:02, testFail3 Start
+[INFO ]12:33:02, count=0
+[INFO ]12:33:03, testFail3 Failure
+[ERROR]12:33:03, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:03, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 19 times
+[INFO ]12:33:03, Fail3Test setUp
+[INFO ]12:33:03, testFail3 Start
+[INFO ]12:33:03, count=0
+[INFO ]12:33:04, testFail3 Failure
+[ERROR]12:33:04, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:04, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 20 times
+[INFO ]12:33:04, Fail3Test setUp
+[INFO ]12:33:04, testFail3 Start
+[INFO ]12:33:04, count=0
+[INFO ]12:33:05, testFail3 Failure
+[ERROR]12:33:05, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:05, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 21 times
+[INFO ]12:33:05, Fail3Test setUp
+[INFO ]12:33:05, testFail3 Start
+[INFO ]12:33:05, count=0
+[INFO ]12:33:06, testFail3 Failure
+[ERROR]12:33:06, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:06, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 22 times
+[INFO ]12:33:06, Fail3Test setUp
+[INFO ]12:33:06, testFail3 Start
+[INFO ]12:33:06, count=0
+[INFO ]12:33:07, testFail3 Failure
+[ERROR]12:33:07, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:07, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 23 times
+[INFO ]12:33:07, Fail3Test setUp
+[INFO ]12:33:07, testFail3 Start
+[INFO ]12:33:07, count=0
+[INFO ]12:33:08, testFail3 Failure
+[ERROR]12:33:08, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:08, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 24 times
+[INFO ]12:33:08, Fail3Test setUp
+[INFO ]12:33:08, testFail3 Start
+[INFO ]12:33:08, count=0
+[INFO ]12:33:09, testFail3 Failure
+[ERROR]12:33:09, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:09, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 25 times
+[INFO ]12:33:09, Fail3Test setUp
+[INFO ]12:33:09, testFail3 Start
+[INFO ]12:33:09, count=0
+[INFO ]12:33:10, testFail3 Failure
+[ERROR]12:33:10, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:10, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 26 times
+[INFO ]12:33:10, Fail3Test setUp
+[INFO ]12:33:10, testFail3 Start
+[INFO ]12:33:10, count=0
+[INFO ]12:33:11, testFail3 Failure
+[ERROR]12:33:11, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:11, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 27 times
+[INFO ]12:33:11, Fail3Test setUp
+[INFO ]12:33:11, testFail3 Start
+[INFO ]12:33:11, count=0
+[INFO ]12:33:12, testFail3 Failure
+[ERROR]12:33:12, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:12, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 28 times
+[INFO ]12:33:12, Fail3Test setUp
+[INFO ]12:33:12, testFail3 Start
+[INFO ]12:33:12, count=0
+[INFO ]12:33:13, testFail3 Failure
+[ERROR]12:33:13, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:13, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 29 times
+[INFO ]12:33:13, Fail3Test setUp
+[INFO ]12:33:13, testFail3 Start
+[INFO ]12:33:13, count=0
+[INFO ]12:33:14, testFail3 Failure
+[ERROR]12:33:14, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:14, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 30 times
+[INFO ]12:33:14, Fail3Test setUp
+[INFO ]12:33:14, testFail3 Start
+[INFO ]12:33:14, count=0
+[INFO ]12:33:15, testFail3 Failure
+[ERROR]12:33:15, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:15, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 31 times
+[INFO ]12:33:15, Fail3Test setUp
+[INFO ]12:33:15, testFail3 Start
+[INFO ]12:33:15, count=0
+[INFO ]12:33:16, testFail3 Failure
+[ERROR]12:33:16, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:16, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 32 times
+[INFO ]12:33:16, Fail3Test setUp
+[INFO ]12:33:16, testFail3 Start
+[INFO ]12:33:16, count=0
+[INFO ]12:33:17, testFail3 Failure
+[ERROR]12:33:17, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:17, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 33 times
+[INFO ]12:33:17, Fail3Test setUp
+[INFO ]12:33:17, testFail3 Start
+[INFO ]12:33:17, count=0
+[INFO ]12:33:18, testFail3 Failure
+[ERROR]12:33:18, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:18, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 34 times
+[INFO ]12:33:18, Fail3Test setUp
+[INFO ]12:33:18, testFail3 Start
+[INFO ]12:33:18, count=0
+[INFO ]12:33:19, testFail3 Failure
+[ERROR]12:33:19, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:19, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 35 times
+[INFO ]12:33:19, Fail3Test setUp
+[INFO ]12:33:19, testFail3 Start
+[INFO ]12:33:19, count=0
+[INFO ]12:33:20, testFail3 Failure
+[ERROR]12:33:20, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:20, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 36 times
+[INFO ]12:33:20, Fail3Test setUp
+[INFO ]12:33:20, testFail3 Start
+[INFO ]12:33:20, count=0
+[INFO ]12:33:21, testFail3 Failure
+[ERROR]12:33:21, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:21, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 37 times
+[INFO ]12:33:21, Fail3Test setUp
+[INFO ]12:33:21, testFail3 Start
+[INFO ]12:33:21, count=0
+[INFO ]12:33:22, testFail3 Failure
+[ERROR]12:33:22, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:22, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 38 times
+[INFO ]12:33:22, Fail3Test setUp
+[INFO ]12:33:22, testFail3 Start
+[INFO ]12:33:22, count=0
+[INFO ]12:33:23, testFail3 Failure
+[ERROR]12:33:23, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 39 times
+[INFO ]12:33:23, Fail3Test setUp
+[INFO ]12:33:23, testFail3 Start
+[INFO ]12:33:23, count=0
+[INFO ]12:33:24, testFail3 Failure
+[ERROR]12:33:24, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 40 times
+[INFO ]12:33:24, Fail3Test setUp
+[INFO ]12:33:24, testFail3 Start
+[INFO ]12:33:24, count=0
+[INFO ]12:33:25, testFail3 Failure
+[ERROR]12:33:25, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:25, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 41 times
+[INFO ]12:33:25, Fail3Test setUp
+[INFO ]12:33:25, testFail3 Start
+[INFO ]12:33:25, count=0
+[INFO ]12:33:26, testFail3 Failure
+[ERROR]12:33:26, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:26, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 42 times
+[INFO ]12:33:26, Fail3Test setUp
+[INFO ]12:33:26, testFail3 Start
+[INFO ]12:33:26, count=0
+[INFO ]12:33:27, testFail3 Failure
+[ERROR]12:33:27, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:27, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 43 times
+[INFO ]12:33:27, Fail3Test setUp
+[INFO ]12:33:27, testFail3 Start
+[INFO ]12:33:27, count=0
+[INFO ]12:33:28, testFail3 Failure
+[ERROR]12:33:28, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:28, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 44 times
+[INFO ]12:33:28, Fail3Test setUp
+[INFO ]12:33:28, testFail3 Start
+[INFO ]12:33:28, count=0
+[INFO ]12:33:29, testFail3 Failure
+[ERROR]12:33:29, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:29, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 45 times
+[INFO ]12:33:29, Fail3Test setUp
+[INFO ]12:33:29, testFail3 Start
+[INFO ]12:33:29, count=0
+[INFO ]12:33:30, testFail3 Failure
+[ERROR]12:33:30, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:30, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 46 times
+[INFO ]12:33:30, Fail3Test setUp
+[INFO ]12:33:30, testFail3 Start
+[INFO ]12:33:30, count=0
+[INFO ]12:33:31, testFail3 Failure
+[ERROR]12:33:31, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:31, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 47 times
+[INFO ]12:33:31, Fail3Test setUp
+[INFO ]12:33:31, testFail3 Start
+[INFO ]12:33:31, count=0
+[INFO ]12:33:32, testFail3 Failure
+[ERROR]12:33:32, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:32, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 48 times
+[INFO ]12:33:32, Fail3Test setUp
+[INFO ]12:33:32, testFail3 Start
+[INFO ]12:33:32, count=0
+[INFO ]12:33:33, testFail3 Failure
+[ERROR]12:33:33, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:33, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 49 times
+[INFO ]12:33:33, Fail3Test setUp
+[INFO ]12:33:33, testFail3 Start
+[INFO ]12:33:33, count=0
+[INFO ]12:33:34, testFail3 Failure
+[ERROR]12:33:34, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 50 times
+[INFO ]12:33:34, Fail3Test setUp
+[INFO ]12:33:34, testFail3 Start
+[INFO ]12:33:34, count=0
+[INFO ]12:33:35, testFail3 Failure
+[ERROR]12:33:35, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:35, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 51 times
+[INFO ]12:33:35, Fail3Test setUp
+[INFO ]12:33:35, testFail3 Start
+[INFO ]12:33:35, count=0
+[INFO ]12:33:36, testFail3 Failure
+[ERROR]12:33:36, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:36, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 52 times
+[INFO ]12:33:36, Fail3Test setUp
+[INFO ]12:33:36, testFail3 Start
+[INFO ]12:33:36, count=0
+[INFO ]12:33:37, testFail3 Failure
+[ERROR]12:33:37, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:37, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 53 times
+[INFO ]12:33:37, Fail3Test setUp
+[INFO ]12:33:37, testFail3 Start
+[INFO ]12:33:37, count=0
+[INFO ]12:33:38, testFail3 Failure
+[ERROR]12:33:38, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:38, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 54 times
+[INFO ]12:33:38, Fail3Test setUp
+[INFO ]12:33:38, testFail3 Start
+[INFO ]12:33:38, count=0
+[INFO ]12:33:39, testFail3 Failure
+[ERROR]12:33:39, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:39, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 55 times
+[INFO ]12:33:39, Fail3Test setUp
+[INFO ]12:33:39, testFail3 Start
+[INFO ]12:33:39, count=0
+[INFO ]12:33:40, testFail3 Failure
+[ERROR]12:33:40, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:40, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 56 times
+[INFO ]12:33:40, Fail3Test setUp
+[INFO ]12:33:40, testFail3 Start
+[INFO ]12:33:40, count=0
+[INFO ]12:33:41, testFail3 Failure
+[ERROR]12:33:41, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:41, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 57 times
+[INFO ]12:33:41, Fail3Test setUp
+[INFO ]12:33:41, testFail3 Start
+[INFO ]12:33:41, count=0
+[INFO ]12:33:42, testFail3 Failure
+[ERROR]12:33:42, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:42, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 58 times
+[INFO ]12:33:42, Fail3Test setUp
+[INFO ]12:33:42, testFail3 Start
+[INFO ]12:33:42, count=0
+[INFO ]12:33:43, testFail3 Failure
+[ERROR]12:33:43, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:43, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 59 times
+[INFO ]12:33:43, Fail3Test setUp
+[INFO ]12:33:43, testFail3 Start
+[INFO ]12:33:43, count=0
+[INFO ]12:33:44, testFail3 Failure
+[ERROR]12:33:44, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:44, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 60 times
+[INFO ]12:33:44, Fail3Test setUp
+[INFO ]12:33:44, testFail3 Start
+[INFO ]12:33:44, count=0
+[INFO ]12:33:45, testFail3 Failure
+[ERROR]12:33:45, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:45, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 61 times
+[INFO ]12:33:45, Fail3Test setUp
+[INFO ]12:33:45, testFail3 Start
+[INFO ]12:33:45, count=0
+[INFO ]12:33:46, testFail3 Failure
+[ERROR]12:33:46, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:46, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 62 times
+[INFO ]12:33:46, Fail3Test setUp
+[INFO ]12:33:46, testFail3 Start
+[INFO ]12:33:46, count=0
+[INFO ]12:33:47, testFail3 Failure
+[ERROR]12:33:47, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:47, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 63 times
+[INFO ]12:33:47, Fail3Test setUp
+[INFO ]12:33:47, testFail3 Start
+[INFO ]12:33:47, count=0
+[INFO ]12:33:48, testFail3 Failure
+[ERROR]12:33:48, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:48, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 64 times
+[INFO ]12:33:48, Fail3Test setUp
+[INFO ]12:33:48, testFail3 Start
+[INFO ]12:33:48, count=0
+[INFO ]12:33:49, testFail3 Failure
+[ERROR]12:33:49, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 65 times
+[INFO ]12:33:49, Fail3Test setUp
+[INFO ]12:33:49, testFail3 Start
+[INFO ]12:33:49, count=0
+[INFO ]12:33:50, testFail3 Failure
+[ERROR]12:33:50, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 66 times
+[INFO ]12:33:50, Fail3Test setUp
+[INFO ]12:33:50, testFail3 Start
+[INFO ]12:33:50, count=0
+[INFO ]12:33:51, testFail3 Failure
+[ERROR]12:33:51, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 67 times
+[INFO ]12:33:51, Fail3Test setUp
+[INFO ]12:33:51, testFail3 Start
+[INFO ]12:33:51, count=0
+[INFO ]12:33:52, testFail3 Failure
+[ERROR]12:33:52, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 68 times
+[INFO ]12:33:52, Fail3Test setUp
+[INFO ]12:33:52, testFail3 Start
+[INFO ]12:33:52, count=0
+[INFO ]12:33:53, testFail3 Failure
+[ERROR]12:33:53, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 69 times
+[INFO ]12:33:53, Fail3Test setUp
+[INFO ]12:33:53, testFail3 Start
+[INFO ]12:33:53, count=0
+[INFO ]12:33:54, testFail3 Failure
+[ERROR]12:33:54, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 70 times
+[INFO ]12:33:54, Fail3Test setUp
+[INFO ]12:33:54, testFail3 Start
+[INFO ]12:33:54, count=0
+[INFO ]12:33:55, testFail3 Failure
+[ERROR]12:33:55, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:33:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 71 times
+[INFO ]12:33:55, Fail3Test setUp
+[INFO ]12:33:55, testFail3 Start
+[INFO ]12:33:55, count=0
+[INFO ]12:33:59, screenShotpath=
+[INFO ]12:33:59, screenShotpath=
+[INFO ]12:33:59, RetryCount=100
+[INFO ]12:33:59, testSuccess setUp
+[INFO ]12:33:59, testSuccess Start
+[INFO ]12:33:59, testSuccess
+[INFO ]12:33:59, testSuccess Success
+[INFO ]12:33:59, Fail3Test setUp
+[INFO ]12:33:59, testFail3 Start
+[INFO ]12:33:59, count=0
+[INFO ]12:34:00, testFail3 Failure
+[ERROR]12:34:00, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:00, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]12:34:00, Fail3Test setUp
+[INFO ]12:34:00, testFail3 Start
+[INFO ]12:34:00, count=0
+[INFO ]12:34:01, testFail3 Failure
+[ERROR]12:34:01, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:01, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]12:34:01, Fail3Test setUp
+[INFO ]12:34:01, testFail3 Start
+[INFO ]12:34:01, count=0
+[INFO ]12:34:02, testFail3 Failure
+[ERROR]12:34:02, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:02, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]12:34:02, Fail3Test setUp
+[INFO ]12:34:02, testFail3 Start
+[INFO ]12:34:02, count=0
+[INFO ]12:34:03, testFail3 Failure
+[ERROR]12:34:03, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:03, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]12:34:03, Fail3Test setUp
+[INFO ]12:34:03, testFail3 Start
+[INFO ]12:34:03, count=0
+[INFO ]12:34:04, testFail3 Failure
+[ERROR]12:34:04, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:04, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 5 times
+[INFO ]12:34:04, Fail3Test setUp
+[INFO ]12:34:04, testFail3 Start
+[INFO ]12:34:04, count=0
+[INFO ]12:34:05, testFail3 Failure
+[ERROR]12:34:05, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:05, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 6 times
+[INFO ]12:34:05, Fail3Test setUp
+[INFO ]12:34:05, testFail3 Start
+[INFO ]12:34:05, count=0
+[INFO ]12:34:06, testFail3 Failure
+[ERROR]12:34:06, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:06, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 7 times
+[INFO ]12:34:06, Fail3Test setUp
+[INFO ]12:34:06, testFail3 Start
+[INFO ]12:34:06, count=0
+[INFO ]12:34:07, testFail3 Failure
+[ERROR]12:34:07, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:07, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 8 times
+[INFO ]12:34:07, Fail3Test setUp
+[INFO ]12:34:07, testFail3 Start
+[INFO ]12:34:07, count=0
+[INFO ]12:34:08, testFail3 Failure
+[ERROR]12:34:08, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:08, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 9 times
+[INFO ]12:34:08, Fail3Test setUp
+[INFO ]12:34:08, testFail3 Start
+[INFO ]12:34:08, count=0
+[INFO ]12:34:09, testFail3 Failure
+[ERROR]12:34:09, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:09, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 10 times
+[INFO ]12:34:09, Fail3Test setUp
+[INFO ]12:34:09, testFail3 Start
+[INFO ]12:34:09, count=0
+[INFO ]12:34:10, testFail3 Failure
+[ERROR]12:34:10, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:10, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 11 times
+[INFO ]12:34:10, Fail3Test setUp
+[INFO ]12:34:10, testFail3 Start
+[INFO ]12:34:10, count=0
+[INFO ]12:34:11, testFail3 Failure
+[ERROR]12:34:11, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:11, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 12 times
+[INFO ]12:34:11, Fail3Test setUp
+[INFO ]12:34:11, testFail3 Start
+[INFO ]12:34:11, count=0
+[INFO ]12:34:12, testFail3 Failure
+[ERROR]12:34:12, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:12, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 13 times
+[INFO ]12:34:12, Fail3Test setUp
+[INFO ]12:34:12, testFail3 Start
+[INFO ]12:34:12, count=0
+[INFO ]12:34:13, testFail3 Failure
+[ERROR]12:34:13, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:13, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 14 times
+[INFO ]12:34:13, Fail3Test setUp
+[INFO ]12:34:13, testFail3 Start
+[INFO ]12:34:13, count=0
+[INFO ]12:34:14, testFail3 Failure
+[ERROR]12:34:14, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:14, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 15 times
+[INFO ]12:34:14, Fail3Test setUp
+[INFO ]12:34:14, testFail3 Start
+[INFO ]12:34:14, count=0
+[INFO ]12:34:15, testFail3 Failure
+[ERROR]12:34:15, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:15, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 16 times
+[INFO ]12:34:15, Fail3Test setUp
+[INFO ]12:34:15, testFail3 Start
+[INFO ]12:34:15, count=0
+[INFO ]12:34:16, testFail3 Failure
+[ERROR]12:34:16, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:16, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 17 times
+[INFO ]12:34:16, Fail3Test setUp
+[INFO ]12:34:16, testFail3 Start
+[INFO ]12:34:16, count=0
+[INFO ]12:34:17, testFail3 Failure
+[ERROR]12:34:17, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:17, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 18 times
+[INFO ]12:34:17, Fail3Test setUp
+[INFO ]12:34:17, testFail3 Start
+[INFO ]12:34:17, count=0
+[INFO ]12:34:18, testFail3 Failure
+[ERROR]12:34:18, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:18, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 19 times
+[INFO ]12:34:18, Fail3Test setUp
+[INFO ]12:34:18, testFail3 Start
+[INFO ]12:34:18, count=0
+[INFO ]12:34:19, testFail3 Failure
+[ERROR]12:34:19, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:19, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 20 times
+[INFO ]12:34:19, Fail3Test setUp
+[INFO ]12:34:19, testFail3 Start
+[INFO ]12:34:19, count=0
+[INFO ]12:34:20, testFail3 Failure
+[ERROR]12:34:20, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:20, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 21 times
+[INFO ]12:34:20, Fail3Test setUp
+[INFO ]12:34:20, testFail3 Start
+[INFO ]12:34:20, count=0
+[INFO ]12:34:21, testFail3 Failure
+[ERROR]12:34:21, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:21, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 22 times
+[INFO ]12:34:21, Fail3Test setUp
+[INFO ]12:34:21, testFail3 Start
+[INFO ]12:34:21, count=0
+[INFO ]12:34:22, testFail3 Failure
+[ERROR]12:34:22, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:22, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 23 times
+[INFO ]12:34:22, Fail3Test setUp
+[INFO ]12:34:22, testFail3 Start
+[INFO ]12:34:22, count=0
+[INFO ]12:34:23, testFail3 Failure
+[ERROR]12:34:23, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 24 times
+[INFO ]12:34:23, Fail3Test setUp
+[INFO ]12:34:23, testFail3 Start
+[INFO ]12:34:23, count=0
+[INFO ]12:34:24, testFail3 Failure
+[ERROR]12:34:24, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 25 times
+[INFO ]12:34:24, Fail3Test setUp
+[INFO ]12:34:24, testFail3 Start
+[INFO ]12:34:24, count=0
+[INFO ]12:34:25, testFail3 Failure
+[ERROR]12:34:25, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:25, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 26 times
+[INFO ]12:34:25, Fail3Test setUp
+[INFO ]12:34:25, testFail3 Start
+[INFO ]12:34:25, count=0
+[INFO ]12:34:26, testFail3 Failure
+[ERROR]12:34:26, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:26, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 27 times
+[INFO ]12:34:26, Fail3Test setUp
+[INFO ]12:34:26, testFail3 Start
+[INFO ]12:34:26, count=0
+[INFO ]12:34:27, testFail3 Failure
+[ERROR]12:34:27, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:27, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 28 times
+[INFO ]12:34:27, Fail3Test setUp
+[INFO ]12:34:27, testFail3 Start
+[INFO ]12:34:27, count=0
+[INFO ]12:34:28, testFail3 Failure
+[ERROR]12:34:28, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:28, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 29 times
+[INFO ]12:34:28, Fail3Test setUp
+[INFO ]12:34:28, testFail3 Start
+[INFO ]12:34:28, count=0
+[INFO ]12:34:29, testFail3 Failure
+[ERROR]12:34:29, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:29, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 30 times
+[INFO ]12:34:29, Fail3Test setUp
+[INFO ]12:34:29, testFail3 Start
+[INFO ]12:34:29, count=0
+[INFO ]12:34:30, testFail3 Failure
+[ERROR]12:34:30, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:30, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 31 times
+[INFO ]12:34:30, Fail3Test setUp
+[INFO ]12:34:30, testFail3 Start
+[INFO ]12:34:30, count=0
+[INFO ]12:34:31, testFail3 Failure
+[ERROR]12:34:31, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:31, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 32 times
+[INFO ]12:34:31, Fail3Test setUp
+[INFO ]12:34:31, testFail3 Start
+[INFO ]12:34:31, count=0
+[INFO ]12:34:32, testFail3 Failure
+[ERROR]12:34:32, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:32, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 33 times
+[INFO ]12:34:32, Fail3Test setUp
+[INFO ]12:34:32, testFail3 Start
+[INFO ]12:34:32, count=0
+[INFO ]12:34:33, testFail3 Failure
+[ERROR]12:34:33, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:33, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 34 times
+[INFO ]12:34:33, Fail3Test setUp
+[INFO ]12:34:33, testFail3 Start
+[INFO ]12:34:33, count=0
+[INFO ]12:34:34, testFail3 Failure
+[ERROR]12:34:34, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 35 times
+[INFO ]12:34:34, Fail3Test setUp
+[INFO ]12:34:34, testFail3 Start
+[INFO ]12:34:34, count=0
+[INFO ]12:34:35, testFail3 Failure
+[ERROR]12:34:35, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:35, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 36 times
+[INFO ]12:34:35, Fail3Test setUp
+[INFO ]12:34:35, testFail3 Start
+[INFO ]12:34:35, count=0
+[INFO ]12:34:36, testFail3 Failure
+[ERROR]12:34:36, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:36, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 37 times
+[INFO ]12:34:36, Fail3Test setUp
+[INFO ]12:34:36, testFail3 Start
+[INFO ]12:34:36, count=0
+[INFO ]12:34:37, testFail3 Failure
+[ERROR]12:34:37, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:37, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 38 times
+[INFO ]12:34:37, Fail3Test setUp
+[INFO ]12:34:37, testFail3 Start
+[INFO ]12:34:37, count=0
+[INFO ]12:34:38, testFail3 Failure
+[ERROR]12:34:38, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:38, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 39 times
+[INFO ]12:34:38, Fail3Test setUp
+[INFO ]12:34:38, testFail3 Start
+[INFO ]12:34:38, count=0
+[INFO ]12:34:39, testFail3 Failure
+[ERROR]12:34:39, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:39, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 40 times
+[INFO ]12:34:39, Fail3Test setUp
+[INFO ]12:34:39, testFail3 Start
+[INFO ]12:34:39, count=0
+[INFO ]12:34:40, testFail3 Failure
+[ERROR]12:34:40, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:40, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 41 times
+[INFO ]12:34:40, Fail3Test setUp
+[INFO ]12:34:40, testFail3 Start
+[INFO ]12:34:40, count=0
+[INFO ]12:34:41, testFail3 Failure
+[ERROR]12:34:41, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:41, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 42 times
+[INFO ]12:34:41, Fail3Test setUp
+[INFO ]12:34:41, testFail3 Start
+[INFO ]12:34:41, count=0
+[INFO ]12:34:42, testFail3 Failure
+[ERROR]12:34:42, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:42, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 43 times
+[INFO ]12:34:42, Fail3Test setUp
+[INFO ]12:34:42, testFail3 Start
+[INFO ]12:34:42, count=0
+[INFO ]12:34:43, testFail3 Failure
+[ERROR]12:34:43, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:43, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 44 times
+[INFO ]12:34:43, Fail3Test setUp
+[INFO ]12:34:43, testFail3 Start
+[INFO ]12:34:43, count=0
+[INFO ]12:34:44, testFail3 Failure
+[ERROR]12:34:44, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:44, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 45 times
+[INFO ]12:34:44, Fail3Test setUp
+[INFO ]12:34:44, testFail3 Start
+[INFO ]12:34:44, count=0
+[INFO ]12:34:45, testFail3 Failure
+[ERROR]12:34:45, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:45, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 46 times
+[INFO ]12:34:45, Fail3Test setUp
+[INFO ]12:34:45, testFail3 Start
+[INFO ]12:34:45, count=0
+[INFO ]12:34:46, testFail3 Failure
+[ERROR]12:34:46, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:46, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 47 times
+[INFO ]12:34:46, Fail3Test setUp
+[INFO ]12:34:46, testFail3 Start
+[INFO ]12:34:46, count=0
+[INFO ]12:34:47, testFail3 Failure
+[ERROR]12:34:47, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:47, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 48 times
+[INFO ]12:34:47, Fail3Test setUp
+[INFO ]12:34:47, testFail3 Start
+[INFO ]12:34:47, count=0
+[INFO ]12:34:48, testFail3 Failure
+[ERROR]12:34:48, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:48, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 49 times
+[INFO ]12:34:48, Fail3Test setUp
+[INFO ]12:34:48, testFail3 Start
+[INFO ]12:34:48, count=0
+[INFO ]12:34:49, testFail3 Failure
+[ERROR]12:34:49, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 50 times
+[INFO ]12:34:49, Fail3Test setUp
+[INFO ]12:34:49, testFail3 Start
+[INFO ]12:34:49, count=0
+[INFO ]12:34:50, testFail3 Failure
+[ERROR]12:34:50, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 51 times
+[INFO ]12:34:50, Fail3Test setUp
+[INFO ]12:34:50, testFail3 Start
+[INFO ]12:34:50, count=0
+[INFO ]12:34:51, testFail3 Failure
+[ERROR]12:34:51, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 52 times
+[INFO ]12:34:51, Fail3Test setUp
+[INFO ]12:34:51, testFail3 Start
+[INFO ]12:34:51, count=0
+[INFO ]12:34:52, testFail3 Failure
+[ERROR]12:34:52, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 53 times
+[INFO ]12:34:52, Fail3Test setUp
+[INFO ]12:34:52, testFail3 Start
+[INFO ]12:34:52, count=0
+[INFO ]12:34:53, testFail3 Failure
+[ERROR]12:34:53, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 54 times
+[INFO ]12:34:53, Fail3Test setUp
+[INFO ]12:34:53, testFail3 Start
+[INFO ]12:34:53, count=0
+[INFO ]12:34:54, testFail3 Failure
+[ERROR]12:34:54, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:54, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 55 times
+[INFO ]12:34:54, Fail3Test setUp
+[INFO ]12:34:54, testFail3 Start
+[INFO ]12:34:54, count=0
+[INFO ]12:34:55, testFail3 Failure
+[ERROR]12:34:55, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:55, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 56 times
+[INFO ]12:34:55, Fail3Test setUp
+[INFO ]12:34:55, testFail3 Start
+[INFO ]12:34:55, count=0
+[INFO ]12:34:56, testFail3 Failure
+[ERROR]12:34:56, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 57 times
+[INFO ]12:34:56, Fail3Test setUp
+[INFO ]12:34:56, testFail3 Start
+[INFO ]12:34:56, count=0
+[INFO ]12:34:57, testFail3 Failure
+[ERROR]12:34:57, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 58 times
+[INFO ]12:34:57, Fail3Test setUp
+[INFO ]12:34:57, testFail3 Start
+[INFO ]12:34:57, count=0
+[INFO ]12:34:58, testFail3 Failure
+[ERROR]12:34:58, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 59 times
+[INFO ]12:34:58, Fail3Test setUp
+[INFO ]12:34:58, testFail3 Start
+[INFO ]12:34:58, count=0
+[INFO ]12:34:59, testFail3 Failure
+[ERROR]12:34:59, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:34:59, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 60 times
+[INFO ]12:34:59, Fail3Test setUp
+[INFO ]12:34:59, testFail3 Start
+[INFO ]12:34:59, count=0
+[INFO ]12:35:00, testFail3 Failure
+[ERROR]12:35:00, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:00, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 61 times
+[INFO ]12:35:00, Fail3Test setUp
+[INFO ]12:35:00, testFail3 Start
+[INFO ]12:35:00, count=0
+[INFO ]12:35:01, testFail3 Failure
+[ERROR]12:35:01, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:01, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 62 times
+[INFO ]12:35:01, Fail3Test setUp
+[INFO ]12:35:01, testFail3 Start
+[INFO ]12:35:01, count=0
+[INFO ]12:35:02, testFail3 Failure
+[ERROR]12:35:02, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:02, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 63 times
+[INFO ]12:35:02, Fail3Test setUp
+[INFO ]12:35:02, testFail3 Start
+[INFO ]12:35:02, count=0
+[INFO ]12:35:03, testFail3 Failure
+[ERROR]12:35:03, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:03, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 64 times
+[INFO ]12:35:03, Fail3Test setUp
+[INFO ]12:35:03, testFail3 Start
+[INFO ]12:35:03, count=0
+[INFO ]12:35:04, testFail3 Failure
+[ERROR]12:35:04, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:04, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 65 times
+[INFO ]12:35:04, Fail3Test setUp
+[INFO ]12:35:04, testFail3 Start
+[INFO ]12:35:04, count=0
+[INFO ]12:35:05, testFail3 Failure
+[ERROR]12:35:05, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:05, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 66 times
+[INFO ]12:35:05, Fail3Test setUp
+[INFO ]12:35:05, testFail3 Start
+[INFO ]12:35:05, count=0
+[INFO ]12:35:06, testFail3 Failure
+[ERROR]12:35:06, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:06, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 67 times
+[INFO ]12:35:06, Fail3Test setUp
+[INFO ]12:35:06, testFail3 Start
+[INFO ]12:35:06, count=0
+[INFO ]12:35:07, testFail3 Failure
+[ERROR]12:35:07, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:07, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 68 times
+[INFO ]12:35:07, Fail3Test setUp
+[INFO ]12:35:07, testFail3 Start
+[INFO ]12:35:07, count=0
+[INFO ]12:35:08, testFail3 Failure
+[ERROR]12:35:08, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:08, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 69 times
+[INFO ]12:35:08, Fail3Test setUp
+[INFO ]12:35:08, testFail3 Start
+[INFO ]12:35:08, count=0
+[INFO ]12:35:09, testFail3 Failure
+[ERROR]12:35:09, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:09, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 70 times
+[INFO ]12:35:09, Fail3Test setUp
+[INFO ]12:35:09, testFail3 Start
+[INFO ]12:35:09, count=0
+[INFO ]12:35:10, testFail3 Failure
+[ERROR]12:35:10, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:10, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 71 times
+[INFO ]12:35:10, Fail3Test setUp
+[INFO ]12:35:10, testFail3 Start
+[INFO ]12:35:10, count=0
+[INFO ]12:35:11, testFail3 Failure
+[ERROR]12:35:11, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:11, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 72 times
+[INFO ]12:35:11, Fail3Test setUp
+[INFO ]12:35:11, testFail3 Start
+[INFO ]12:35:11, count=0
+[INFO ]12:35:12, testFail3 Failure
+[ERROR]12:35:12, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:12, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 73 times
+[INFO ]12:35:12, Fail3Test setUp
+[INFO ]12:35:12, testFail3 Start
+[INFO ]12:35:12, count=0
+[INFO ]12:35:13, testFail3 Failure
+[ERROR]12:35:13, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:13, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 74 times
+[INFO ]12:35:13, Fail3Test setUp
+[INFO ]12:35:13, testFail3 Start
+[INFO ]12:35:13, count=0
+[INFO ]12:35:14, testFail3 Failure
+[ERROR]12:35:14, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:14, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 75 times
+[INFO ]12:35:14, Fail3Test setUp
+[INFO ]12:35:14, testFail3 Start
+[INFO ]12:35:14, count=0
+[INFO ]12:35:15, testFail3 Failure
+[ERROR]12:35:15, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:15, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 76 times
+[INFO ]12:35:15, Fail3Test setUp
+[INFO ]12:35:15, testFail3 Start
+[INFO ]12:35:15, count=0
+[INFO ]12:35:16, testFail3 Failure
+[ERROR]12:35:16, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:16, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 77 times
+[INFO ]12:35:16, Fail3Test setUp
+[INFO ]12:35:16, testFail3 Start
+[INFO ]12:35:16, count=0
+[INFO ]12:35:17, testFail3 Failure
+[ERROR]12:35:17, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:17, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 78 times
+[INFO ]12:35:17, Fail3Test setUp
+[INFO ]12:35:17, testFail3 Start
+[INFO ]12:35:17, count=0
+[INFO ]12:35:18, testFail3 Failure
+[ERROR]12:35:18, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:18, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 79 times
+[INFO ]12:35:18, Fail3Test setUp
+[INFO ]12:35:18, testFail3 Start
+[INFO ]12:35:18, count=0
+[INFO ]12:35:19, testFail3 Failure
+[ERROR]12:35:19, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:19, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 80 times
+[INFO ]12:35:19, Fail3Test setUp
+[INFO ]12:35:19, testFail3 Start
+[INFO ]12:35:19, count=0
+[INFO ]12:35:20, testFail3 Failure
+[ERROR]12:35:20, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:20, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 81 times
+[INFO ]12:35:20, Fail3Test setUp
+[INFO ]12:35:20, testFail3 Start
+[INFO ]12:35:20, count=0
+[INFO ]12:35:21, testFail3 Failure
+[ERROR]12:35:21, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:21, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 82 times
+[INFO ]12:35:21, Fail3Test setUp
+[INFO ]12:35:21, testFail3 Start
+[INFO ]12:35:21, count=0
+[INFO ]12:35:22, testFail3 Failure
+[ERROR]12:35:22, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:22, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 83 times
+[INFO ]12:35:22, Fail3Test setUp
+[INFO ]12:35:22, testFail3 Start
+[INFO ]12:35:22, count=0
+[INFO ]12:35:23, testFail3 Failure
+[ERROR]12:35:23, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:23, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 84 times
+[INFO ]12:35:23, Fail3Test setUp
+[INFO ]12:35:23, testFail3 Start
+[INFO ]12:35:23, count=0
+[INFO ]12:35:24, testFail3 Failure
+[ERROR]12:35:24, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:24, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 85 times
+[INFO ]12:35:24, Fail3Test setUp
+[INFO ]12:35:24, testFail3 Start
+[INFO ]12:35:24, count=0
+[INFO ]12:35:25, testFail3 Failure
+[ERROR]12:35:25, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:25, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 86 times
+[INFO ]12:35:25, Fail3Test setUp
+[INFO ]12:35:25, testFail3 Start
+[INFO ]12:35:25, count=0
+[INFO ]12:35:26, testFail3 Failure
+[ERROR]12:35:26, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:26, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 87 times
+[INFO ]12:35:26, Fail3Test setUp
+[INFO ]12:35:26, testFail3 Start
+[INFO ]12:35:26, count=0
+[INFO ]12:35:27, testFail3 Failure
+[ERROR]12:35:27, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:27, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 88 times
+[INFO ]12:35:27, Fail3Test setUp
+[INFO ]12:35:27, testFail3 Start
+[INFO ]12:35:27, count=0
+[INFO ]12:35:28, testFail3 Failure
+[ERROR]12:35:28, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:28, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 89 times
+[INFO ]12:35:28, Fail3Test setUp
+[INFO ]12:35:28, testFail3 Start
+[INFO ]12:35:28, count=0
+[INFO ]12:35:29, testFail3 Failure
+[ERROR]12:35:29, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:29, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 90 times
+[INFO ]12:35:29, Fail3Test setUp
+[INFO ]12:35:29, testFail3 Start
+[INFO ]12:35:29, count=0
+[INFO ]12:35:30, testFail3 Failure
+[ERROR]12:35:30, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:30, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 91 times
+[INFO ]12:35:30, Fail3Test setUp
+[INFO ]12:35:30, testFail3 Start
+[INFO ]12:35:30, count=0
+[INFO ]12:35:31, testFail3 Failure
+[ERROR]12:35:31, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:31, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 92 times
+[INFO ]12:35:31, Fail3Test setUp
+[INFO ]12:35:31, testFail3 Start
+[INFO ]12:35:31, count=0
+[INFO ]12:35:32, testFail3 Failure
+[ERROR]12:35:32, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:32, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 93 times
+[INFO ]12:35:32, Fail3Test setUp
+[INFO ]12:35:32, testFail3 Start
+[INFO ]12:35:32, count=0
+[INFO ]12:35:33, testFail3 Failure
+[ERROR]12:35:33, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:33, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 94 times
+[INFO ]12:35:33, Fail3Test setUp
+[INFO ]12:35:33, testFail3 Start
+[INFO ]12:35:33, count=0
+[INFO ]12:35:34, testFail3 Failure
+[ERROR]12:35:34, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:34, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 95 times
+[INFO ]12:35:34, Fail3Test setUp
+[INFO ]12:35:34, testFail3 Start
+[INFO ]12:35:34, count=0
+[INFO ]12:35:35, testFail3 Failure
+[ERROR]12:35:35, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:35, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 96 times
+[INFO ]12:35:35, Fail3Test setUp
+[INFO ]12:35:35, testFail3 Start
+[INFO ]12:35:35, count=0
+[INFO ]12:35:36, testFail3 Failure
+[ERROR]12:35:36, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:36, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 97 times
+[INFO ]12:35:36, Fail3Test setUp
+[INFO ]12:35:36, testFail3 Start
+[INFO ]12:35:36, count=0
+[INFO ]12:35:37, testFail3 Failure
+[ERROR]12:35:37, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:37, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 98 times
+[INFO ]12:35:37, Fail3Test setUp
+[INFO ]12:35:37, testFail3 Start
+[INFO ]12:35:37, count=0
+[INFO ]12:35:38, testFail3 Failure
+[ERROR]12:35:38, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:38, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 99 times
+[INFO ]12:35:38, Fail3Test setUp
+[INFO ]12:35:38, testFail3 Start
+[INFO ]12:35:38, count=0
+[INFO ]12:35:39, testFail3 Failure
+[ERROR]12:35:39, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:39, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 100 times
+[INFO ]12:35:39, Fail3Test setUp
+[INFO ]12:35:39, testFail3 Start
+[INFO ]12:35:39, count=0
+[INFO ]12:35:40, testFail3 Failure
+[ERROR]12:35:40, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]12:35:40, PassedTests = testSuccess
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, failedTest = testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]12:35:40, Remove repeat Fail Test: testFail3
+[INFO ]13:29:06, screenShotpath=
+[INFO ]13:29:06, screenShotpath=
+[INFO ]13:29:06, RetryCount=100
+[INFO ]13:29:06, testSuccess setUp
+[INFO ]13:29:06, testSuccess Start
+[INFO ]13:29:06, testSuccess
+[INFO ]13:29:06, testSuccess Success
+[INFO ]13:29:06, Fail3Test setUp
+[INFO ]13:29:06, testFail3 Start
+[INFO ]13:29:06, count=0
+[INFO ]13:29:07, testFail3 Failure
+[ERROR]13:29:07, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:07, Fail3Test tearDown
+[INFO ]13:29:07, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]13:29:07, Fail3Test setUp
+[INFO ]13:29:07, testFail3 Start
+[INFO ]13:29:07, count=1
+[INFO ]13:29:08, testFail3 Failure
+[ERROR]13:29:08, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:08, Fail3Test tearDown
+[INFO ]13:29:08, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]13:29:08, Fail3Test setUp
+[INFO ]13:29:08, testFail3 Start
+[INFO ]13:29:08, count=2
+[INFO ]13:29:09, testFail3 Failure
+[ERROR]13:29:09, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:09, Fail3Test tearDown
+[INFO ]13:29:09, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]13:29:09, Fail3Test setUp
+[INFO ]13:29:09, testFail3 Start
+[INFO ]13:29:09, count=3
+[INFO ]13:29:10, testFail3 Failure
+[ERROR]13:29:10, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:10, Fail3Test tearDown
+[INFO ]13:29:10, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]13:29:10, Fail3Test setUp
+[INFO ]13:29:10, testFail3 Start
+[INFO ]13:29:10, count=4
+[INFO ]13:29:11, testFail3 Failure
+[ERROR]13:29:11, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:11, Fail3Test tearDown
+[INFO ]13:29:11, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 5 times
+[INFO ]13:29:11, Fail3Test setUp
+[INFO ]13:29:11, testFail3 Start
+[INFO ]13:29:11, count=5
+[INFO ]13:29:12, testFail3 Failure
+[ERROR]13:29:12, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:12, Fail3Test tearDown
+[INFO ]13:29:12, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 6 times
+[INFO ]13:29:12, testFail3 Start
+[INFO ]13:29:12, testFail3 Skipped
+[ERROR]13:29:12, onTestSkipped:testFail3 tackScreentshot Failure!
+[INFO ]13:29:12, PassedTests = testSuccess
+[INFO ]13:29:12, skipTest = testFail3
+[INFO ]13:29:12, failedTest = testFail3
+[INFO ]13:29:12, failedTest = testFail3
+[INFO ]13:29:12, failedTest = testFail3
+[INFO ]13:29:12, failedTest = testFail3
+[INFO ]13:29:12, failedTest = testFail3
+[INFO ]13:29:12, failedTest = testFail3
+[INFO ]13:29:12, Remove repeat Fail Test: testFail3
+[INFO ]13:29:12, Remove repeat Fail Test: testFail3
+[INFO ]13:29:12, Remove repeat Fail Test: testFail3
+[INFO ]13:29:12, Remove repeat Fail Test: testFail3
+[INFO ]13:29:12, Remove repeat Fail Test: testFail3
+[INFO ]13:29:12, Remove repeat Fail Test: testFail3
+[INFO ]13:29:47, screenShotpath=
+[INFO ]13:29:47, screenShotpath=
+[INFO ]13:29:47, RetryCount=100
+[INFO ]13:29:47, Fail3Test setUp
+[INFO ]13:29:47, testFail3 Start
+[INFO ]13:29:47, count=0
+[INFO ]13:29:48, testFail3 Failure
+[ERROR]13:29:48, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:48, Fail3Test tearDown
+[INFO ]13:29:48, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]13:29:48, Fail3Test setUp
+[INFO ]13:29:48, testFail3 Start
+[INFO ]13:29:48, count=1
+[INFO ]13:29:49, testFail3 Failure
+[ERROR]13:29:49, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:49, Fail3Test tearDown
+[INFO ]13:29:49, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]13:29:49, Fail3Test setUp
+[INFO ]13:29:49, testFail3 Start
+[INFO ]13:29:49, count=2
+[INFO ]13:29:50, testFail3 Failure
+[ERROR]13:29:50, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:50, Fail3Test tearDown
+[INFO ]13:29:50, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]13:29:50, Fail3Test setUp
+[INFO ]13:29:50, testFail3 Start
+[INFO ]13:29:50, count=3
+[INFO ]13:29:51, testFail3 Failure
+[ERROR]13:29:51, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:51, Fail3Test tearDown
+[INFO ]13:29:51, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]13:29:51, Fail3Test setUp
+[INFO ]13:29:51, testFail3 Start
+[INFO ]13:29:51, count=4
+[INFO ]13:29:52, testFail3 Failure
+[ERROR]13:29:52, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:52, Fail3Test tearDown
+[INFO ]13:29:52, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 5 times
+[INFO ]13:29:52, Fail3Test setUp
+[INFO ]13:29:52, testFail3 Start
+[INFO ]13:29:52, count=5
+[INFO ]13:29:53, testFail3 Failure
+[ERROR]13:29:53, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]13:29:53, Fail3Test tearDown
+[INFO ]13:29:53, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 6 times
+[INFO ]13:29:53, testFail3 Start
+[INFO ]13:29:53, testFail3 Skipped
+[ERROR]13:29:53, onTestSkipped:testFail3 tackScreentshot Failure!
+[INFO ]13:29:53, testSuccess setUp
+[INFO ]13:29:53, testSuccess Start
+[INFO ]13:29:53, testSuccess
+[INFO ]13:29:53, testSuccess Success
+[INFO ]13:29:53, PassedTests = testSuccess
+[INFO ]13:29:53, skipTest = testFail3
+[INFO ]13:29:53, failedTest = testFail3
+[INFO ]13:29:53, failedTest = testFail3
+[INFO ]13:29:53, failedTest = testFail3
+[INFO ]13:29:53, failedTest = testFail3
+[INFO ]13:29:53, failedTest = testFail3
+[INFO ]13:29:53, failedTest = testFail3
+[INFO ]13:29:53, Remove repeat Fail Test: testFail3
+[INFO ]13:29:53, Remove repeat Fail Test: testFail3
+[INFO ]13:29:53, Remove repeat Fail Test: testFail3
+[INFO ]13:29:53, Remove repeat Fail Test: testFail3
+[INFO ]13:29:53, Remove repeat Fail Test: testFail3
+[INFO ]13:29:53, Remove repeat Fail Test: testFail3
+[INFO ]14:34:27, screenShotpath=
+[INFO ]14:34:27, screenShotpath=
+[INFO ]14:34:28, RetryCount=100
+[INFO ]14:34:28, Fail3Test setUp
+[INFO ]14:34:28, testFail3 Start
+[INFO ]14:34:28, count=0
+[INFO ]14:34:29, testFail3 Failure
+[ERROR]14:34:29, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:29, Fail3Test tearDown
+[INFO ]14:34:29, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]14:34:29, Fail3Test setUp
+[INFO ]14:34:29, testFail3 Start
+[INFO ]14:34:29, count=1
+[INFO ]14:34:30, testFail3 Failure
+[ERROR]14:34:30, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:30, Fail3Test tearDown
+[INFO ]14:34:30, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]14:34:30, Fail3Test setUp
+[INFO ]14:34:30, testFail3 Start
+[INFO ]14:34:30, count=2
+[INFO ]14:34:31, testFail3 Failure
+[ERROR]14:34:31, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:31, Fail3Test tearDown
+[INFO ]14:34:31, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]14:34:31, Fail3Test setUp
+[INFO ]14:34:31, testFail3 Start
+[INFO ]14:34:31, count=3
+[INFO ]14:34:32, testFail3 Failure
+[ERROR]14:34:32, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:32, Fail3Test tearDown
+[INFO ]14:34:32, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]14:34:32, testFail3 Start
+[INFO ]14:34:32, testFail3 Skipped
+[ERROR]14:34:32, onTestSkipped:testFail3 tackScreentshot Failure!
+[INFO ]14:34:32, testSuccess setUp
+[INFO ]14:34:32, testSuccess Start
+[INFO ]14:34:32, testSuccess
+[INFO ]14:34:32, testSuccess Success
+[INFO ]14:34:32, PassedTests = testSuccess
+[INFO ]14:34:32, skipTest = testFail3
+[INFO ]14:34:32, failedTest = testFail3
+[INFO ]14:34:32, failedTest = testFail3
+[INFO ]14:34:32, failedTest = testFail3
+[INFO ]14:34:32, failedTest = testFail3
+[INFO ]14:34:32, Remove repeat Fail Test: testFail3
+[INFO ]14:34:32, Remove repeat Fail Test: testFail3
+[INFO ]14:34:32, Remove repeat Fail Test: testFail3
+[INFO ]14:34:32, Remove repeat Fail Test: testFail3
+[INFO ]14:34:54, screenShotpath=
+[INFO ]14:34:54, screenShotpath=
+[INFO ]14:34:55, RetryCount=100
+[INFO ]14:34:55, Fail3Test setUp
+[INFO ]14:34:55, testFail3 Start
+[INFO ]14:34:55, count=0
+[INFO ]14:34:56, testFail3 Failure
+[ERROR]14:34:56, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:56, tearDown
+[INFO ]14:34:56, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 1 times
+[INFO ]14:34:56, Fail3Test setUp
+[INFO ]14:34:56, testFail3 Start
+[INFO ]14:34:56, count=1
+[INFO ]14:34:57, testFail3 Failure
+[ERROR]14:34:57, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:57, tearDown
+[INFO ]14:34:57, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 2 times
+[INFO ]14:34:57, Fail3Test setUp
+[INFO ]14:34:57, testFail3 Start
+[INFO ]14:34:57, count=2
+[INFO ]14:34:58, testFail3 Failure
+[ERROR]14:34:58, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:58, tearDown
+[INFO ]14:34:58, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 3 times
+[INFO ]14:34:58, Fail3Test setUp
+[INFO ]14:34:58, testFail3 Start
+[INFO ]14:34:58, count=3
+[INFO ]14:34:59, testFail3 Failure
+[ERROR]14:34:59, onTestFailure:testFail3 tackScreentshot Failure!
+[INFO ]14:34:59, tearDown
+[INFO ]14:34:59, Retry for [testFail3] on class [com.netease.qa.testng.demo.Fail3Test] Retry 4 times
+[INFO ]14:34:59, testFail3 Start
+[INFO ]14:34:59, testFail3 Skipped
+[ERROR]14:34:59, onTestSkipped:testFail3 tackScreentshot Failure!
+[INFO ]14:34:59, testSuccess setUp
+[INFO ]14:34:59, testSuccess Start
+[INFO ]14:34:59, testSuccess
+[INFO ]14:34:59, testSuccess Success
+[INFO ]14:34:59, PassedTests = testSuccess
+[INFO ]14:34:59, skipTest = testFail3
+[INFO ]14:34:59, failedTest = testFail3
+[INFO ]14:34:59, failedTest = testFail3
+[INFO ]14:34:59, failedTest = testFail3
+[INFO ]14:34:59, failedTest = testFail3
+[INFO ]14:34:59, Remove repeat Fail Test: testFail3
+[INFO ]14:34:59, Remove repeat Fail Test: testFail3
+[INFO ]14:34:59, Remove repeat Fail Test: testFail3
+[INFO ]14:34:59, Remove repeat Fail Test: testFail3

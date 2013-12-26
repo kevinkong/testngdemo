@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Pris_iOS_UI_AutoTest]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.netease.qa.testng.demo.Fail1SkipTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testFail1Skip"/>
+        </methods>
+      </class> <!-- com.netease.qa.testng.demo.Fail1SkipTest -->
+      <class name="com.netease.qa.testng.demo.Fail2SuccessTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.netease.qa.testng.demo.Fail2SuccessTest -->
+      <class name="com.netease.qa.testng.demo.Fail1SuccessTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.netease.qa.testng.demo.Fail1SuccessTest -->
+      <class name="com.netease.qa.testng.demo.SkipTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testSkip"/>
+        </methods>
+      </class> <!-- com.netease.qa.testng.demo.SkipTest -->
+      <class name="com.netease.qa.testng.demo.SuccessTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.netease.qa.testng.demo.SuccessTest -->
+      <class name="com.netease.qa.testng.demo.Fail3Test">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testFail3"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.netease.qa.testng.demo.Fail3Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Pris_iOS_UI_AutoTest] -->
